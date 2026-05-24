@@ -28,7 +28,7 @@ Providing functional and technical requirement analysis of all new DISA Mission 
 (SRFs)
 Create workload utilization documentation of customer environments
 Schedule and facilitate Mission Partner stakeholder meetings to ensure all project risk has been identified and mitigated
-Develop and manage the overall project work plan for each Mission Partner project to be certain all workload has beenÂ identified and
+Develop and manage the overall project work plan for each Mission Partner project to be certain all workload has been identified and
 completed on time
 Coordinate with DISA Information Assurance (IA) personnel to ensure that Mission Partner IT systems have the required DoD Information
 Assurance Certificates and Accreditation Process (DIACAP) package completed, making certain the customer is in compliance before

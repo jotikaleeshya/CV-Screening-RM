@@ -30,7 +30,7 @@ SDLC Designing, Producing, Upgrade
 Six Sigma Senior management, Profit, Vision
 Work History
 Director of Information Technology , 11/2012 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives.
 Leads and assists technical upgrade projects for clients by coordinating with consultants and developers for data migration and integrations.
 Coordinates with management teams to plan, develop, align and execute strategies that would meet client's vision, mission and purpose.
@@ -38,7 +38,7 @@ Reviews and assesses architecture design, implementation, testing and deployment
 18%.
 Plays key role in on-going network design, reevaluation and optimization to keep pace with company growth.
 Senior Consulting IT Program Manager , 12/2014 to 12/2020
-Company Name â€“ City , State
+Company Name – City , State
 Managed and implemented concurrent projects relating to business process re-engineering, software development and upgrades to foster
 productivity, throughput, and end-user engagement.
 Performed program research and analyzed data collection to develop cost estimates and budgets.
@@ -54,7 +54,7 @@ engagement and increase sales profit levels 30%.
 Executed coordinated project leadership, efficient resource and budget utilization, schedule adherence, implementation of application
 software, training end users, and problem-solving across multiple product lines.
 Business Products Specialist , 05/2008 to 11/2012
-Company Name â€“ City , State
+Company Name – City , State
 Developed and fostered relationships with business owners and key executives to assess dynamic risk mitigation and business insurance
 needs and deliver solutions.
 
@@ -67,7 +67,7 @@ Planned and executed events and marketing programs, producing 40% of goal of qua
 Exceeded sales goal 12% by effectively applying analyzed data to marketing campaigns and sharing data interdepartmentally.
 Informed supervisors and company leaders on markets and regional sales needs to best meet customer needs and maximize revenue.
 Product Design Project Team Lead , 11/2000 to 06/2004
-Company Name â€“ City , State
+Company Name – City , State
 Demonstrated efficacy throughout project & product life cycles in applying flexible change management deliverables including training,
 communications, and stakeholder engagement to increase end-user adoption of project implementations.
 Supervised four (4) concurrent projects for 16 & 17 Next Gen nuclear core clients in Brazil and South Korea by coordinating planning,
@@ -75,13 +75,13 @@ designing, testing, budgeting and scheduling tasks.
 Developed implementation methodologies to rein in project costs while meeting key milestones.
 Provided accurate, detailed quality assessments based on project drawings and technical specifications.
 Education
-Certified Associate in Project Management (CAPM) â€“ #2743884, Expires : Expected in 2028
+Certified Associate in Project Management (CAPM) – #2743884, Expires : Expected in 2028
 2021
 Master of Science : Information Technology Management , 2019
 Western Governors University - City , State
 Bachelor of Science : Business Administration and Management, Marketing and Management, International Business , 2004
 University Of South Carolina - Columbia - State
 Affiliations
-Project Management Institute (PMI) â€“ # 6203883, Current Member
+Project Management Institute (PMI) – # 6203883, Current Member
 Certifications
 Certified [Job Title] , [Company Name] - [Timeframe]

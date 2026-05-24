@@ -49,7 +49,7 @@ Control System Study on Feedback Control systems including Laplace transformatio
 Bode Plot, Root Locus, Frequency Response and Stability Robustness.
 Research on Ping-Pong ball position control by PIXY camera and smart transporting project of avoiding multi-vehicles crash involving study
 on "string stability".
-Machine Learning Experienced in Supervised Learning (Regression, Decision Tree, Neural Networks, KNN, SVM, NaÃ¯ve Bayes
+Machine Learning Experienced in Supervised Learning (Regression, Decision Tree, Neural Networks, KNN, SVM, Naïve Bayes
 Classifiers), Unsupervised Learning (Clustering, PCA, Matrix Factorization), etc.
 Trained a learning model combining Logistic Regression (LASSO), Linear SVM, intersection kernel SVM and Adaboost to predict tweeter
 users' gender by their tweets, profiles and graphic information.

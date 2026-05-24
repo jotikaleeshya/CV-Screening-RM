@@ -32,7 +32,7 @@ Systems and parameters of tuning the PID controllers
 Published Work
 Research Paper: Â
 K.P.S. Rana, N. Mittra, N. Pramanik , P. Dwivedi and P. Mahajan: " Virtual Instrumentation Approach to Neural Network Based
-Thermistor Linearization on Field Programmable Gate Array "; Experimental Techniques Volume 39, Issue 2, pages 23â€“30, Jan 2013 Â
+Thermistor Linearization on Field Programmable Gate Array "; Experimental Techniques Volume 39, Issue 2, pages 23–30, Jan 2013 Â
 Â
 Conference Presentation: Â
 K. P. S. Rana, Vineet Kumar, Neel Pramanik , Nishant Mitra, Sumit Kumar Shakya: " Some Applications of FPGA in Custom Waveform

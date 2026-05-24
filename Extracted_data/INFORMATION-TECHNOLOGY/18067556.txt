@@ -2,7 +2,7 @@
 MASTER DATA MANAGER
 Experience
 Master Data Manager , 01/2019 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Aligning 100+ supply chain-related master data attributes to ensure the following guidelines are met:.
 Data Stewardship - Appropriate business units and ownership established to validate appropriate values, definitions and impact
 documentation for all master data fields.
@@ -18,7 +18,7 @@ meaningful master data.
 Engaging applicable stakeholders to promote data governance, data architect, data stewardship and data security the data governance
 committee oversees the framework for complex supply chain manufacturing operations.
 Director of Information Technology , 01/2017 to 01/2019
-Company Name â€“ City , State
+Company Name – City , State
 Supply Chain Management - Warehouse, 3PL, Food Services, Served as the corporate Project Manager, overseeing all implementations
 (WMS, ERP, QMS, CMMS, infrastructure).
 Responsibilities included progress reporting, budget control, task delegation, plan creation, vendor coordination, etc.
@@ -69,7 +69,7 @@ Vice President of Sales and Account Manager use.
 Overhauled all company technology from on-premise systems to an array of cloud solutions, including replacing hardware and migrating
 servers and databases, this renovation saves ~$108,000 per year and provides long-term scalability.
 01/2015 to 01/2017
-Company Name â€“ City , State
+Company Name – City , State
 Co-Founded indoor, hydroponic farming company in South Jersey.
 Bringing a hyper-local product to the Camden and Philadelphia region HGF generated $100K in its first year via a strategic relationship with
 the premier food management service in Philadelphia, local restaurants, farmer's markets, and Whole Foods retail chain.
@@ -88,7 +88,7 @@ and CapEx schedules, coordinating with lenders, insurance institutions and annua
 SOPs - Instituted standard operating procedures to ensure quality standards are maintained and product consistency is maintained.
 Work History
 Master Data Manager , 01/2019 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Aligning 100+ supply chain-related master data attributes to ensure the following guidelines are met:.
 Data Stewardship - Appropriate business units and ownership established to validate appropriate values, definitions and impact
 documentation for all master data fields.
@@ -104,7 +104,7 @@ meaningful master data.
 Engaging applicable stakeholders to promote data governance, data architect, data stewardship and data security the data governance
 committee oversees the framework for complex supply chain manufacturing operations.
 Director of Information Technology , 01/2017 to 01/2019
-Company Name â€“ City , State
+Company Name – City , State
 Supply Chain Management - Warehouse, 3PL, Food Services, Served as the corporate Project Manager, overseeing all implementations
 (WMS, ERP, QMS, CMMS, infrastructure).
 Responsibilities included progress reporting, budget control, task delegation, plan creation, vendor coordination, etc.
@@ -155,7 +155,7 @@ Vice President of Sales and Account Manager use.
 Overhauled all company technology from on-premise systems to an array of cloud solutions, including replacing hardware and migrating
 servers and databases, this renovation saves ~$108,000 per year and provides long-term scalability.
 01/2015 to 01/2017
-Company Name â€“ City , State
+Company Name – City , State
 Co-Founded indoor, hydroponic farming company in South Jersey.
 Bringing a hyper-local product to the Camden and Philadelphia region HGF generated $100K in its first year via a strategic relationship with
 the premier food management service in Philadelphia, local restaurants, farmer's markets, and Whole Foods retail chain.

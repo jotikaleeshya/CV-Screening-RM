@@ -20,12 +20,12 @@ Company Name ï¼​ City , State
 Lead UX/UI designer at Diligent an industry leader in secure document management software.
 Primary role included lead for two web applications
 Diligent s Client Provisioning Portal and Client Management Portal.
-The provisioning web application portal is used by Diligent's account managers to set up new clients.Â My tasks were to successfully
+The provisioning web application portal is used by Diligent's account managers to set up new clients. My tasks were to successfully
 design set up client companies with unique settings, permissions and bulk licensing procurement.
 The Client Application Portal is designed to be used by the client company's administrators to manage users. The app featured, bulk and
 singular user on-boarding, license management and cunsumtion, locking and resetting users, auditing and login methods for both local and
 active directory users.
-I work in an Agile work enviorment withÂ two week sprint cycles
+I work in an Agile work enviorment with two week sprint cycles
 Manage stories via Target Process
 Establish best practice usability and maintained patterns of experience and brand
 Daily Collaboration with Designers, Scrum Master, BA, DEV, QA and PO across two products.
@@ -135,9 +135,9 @@ Board Member: http://www.aiga.org/
 On the Board of Directors of AIGA "Charlotte" Chapter as Web Director.
 Project Owner:
 Initiated GrandPrizeCentral which resulted in a Major redesign campaign, and application around "Punch The Monkey" The Internet's first
-hyper successful banner ad campaign .Â The online game portal featured played games for prizes and cash.
+hyper successful banner ad campaign . The online game portal featured played games for prizes and cash.
 Project Owner:
-Launched and managed the building of HostPaks an online application that builtÂ HTML websites with no skill requirements. Oversaw the
+Launched and managed the building of HostPaks an online application that built HTML websites with no skill requirements. Oversaw the
 application across many development teams around the world across multiple disciplines.
 Education
 Associates Degree Colorado Institute of Art ï¼​ City , State

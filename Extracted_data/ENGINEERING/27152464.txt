@@ -14,7 +14,7 @@ Collaborating with stakeholders - Roadmap, Managing Multitasking abilities, Flex
 releases, Demos, Risk mitigation planning,
 Work History
 QA Engineering Manager , 01/2016 to Current
-Company Name â€“ City , State
+Company Name – City , State
 20+ EMV certs in calendar year with team of 2+ cert Analysts.
 Managed fast paced project delivery from QA for time sensitive and key projects for company.
 Collis tool (BTT) automation using Python to reduce EMV test cases execution time to 1 week for all brands, thus completing any EMV
@@ -30,7 +30,7 @@ Used critical thinking to break down problems, evaluate solutions and make decis
 Managed team of 8 employees, overseeing hiring, training, and professional growth of employees.
 4 promotions within team including 1 lead and 1 manager.
 Software Certification Analyst , 04/2015 to 01/2016
-Company Name â€“ City , State
+Company Name – City , State
 Instrumental in procuring 1st EMV certification within 6 months of joining.
 Reduced overall EMV certification timeline from 1+ year to
 Automation of EMV Certification and Transaction link application using spreadsheet based input.
@@ -38,12 +38,12 @@ Established myself as go to person for any QA issue within QA and Merchant Imple
 Created common test/tool strategy to supplement automation for regression and functional testing; reduced time to market.
 Instrumental in doing POC on different test management tools (zypher, Jira, QA complete) to identify best suited for company needs(Jira).
 Project Lead , 09/2005 to 04/2015
-Company Name â€“ City , State
-Received core value awards - â€œSYNERGYâ€​ in 2009 for team building and â€œSMARTâ€​ in 2012 for Individual performances.
+Company Name – City , State
+Received core value awards - "SYNERGYâ€​ in 2009 for team building and "SMARTâ€​ in 2012 for Individual performances.
 Nominated for BRAVO award in First Data (2012 and 2014).
 Automation improvement using PERL scripting.
 Established involvement of frontend application into Change release management and helped to identify key issues during backend testing.
-3 times achiever of â€œ0â€​ issues in support queue as offshore lead.
+3 times achiever of "0â€​ issues in support queue as offshore lead.
 Planned, executed and promoted total of 10+ releases in calendar year.
 Produced quality standards, checklists, report templates and processes for same.
 Developed and trained junior team members by leveraging industry experience to achieve optimal project strategy.
@@ -55,26 +55,26 @@ Bachelors of Science : Electronics , 2002
 Devi Ahilya University - City
 Micro-processors, Databases, Networking, and Operating Systems
 Certifications
-Certified Scrum Master (CSM) â€“ Certificate code: 1221056, Expires May 2022 Certified Tester Foundation Level (CTFL) - Certificate code:
+Certified Scrum Master (CSM) – Certificate code: 1221056, Expires May 2022 Certified Tester Foundation Level (CTFL) - Certificate code:
 
 --- Page 2 ---
-17-CTFL-02141-USA No Expiry Agile Scrum Foundation - Certificate code: 2146592, No Expiry Using Python for Automation â€“ LinkedIn,
-No Expiry Python: XML, JSON, and the Web â€“ LinkedIn, No Expiry SQL for Testers â€“ LinkedIn, No Expiry
+17-CTFL-02141-USA No Expiry Agile Scrum Foundation - Certificate code: 2146592, No Expiry Using Python for Automation – LinkedIn,
+No Expiry Python: XML, JSON, and the Web – LinkedIn, No Expiry SQL for Testers – LinkedIn, No Expiry
 Technical Skills
-Â· Test Methodologies: Regression Testing, Black box testing, Sanity testing, boundary analysis, requirement analysis (Static testing),
+· Test Methodologies: Regression Testing, Black box testing, Sanity testing, boundary analysis, requirement analysis (Static testing),
 Performance Testing, system integration testing, functional testing, manual testing.
-Â· Test Artifacts: Test Estimation, Test plan, Test coverage, Traceability matrix, bug tracking, automation design, Test scenario engineering
-Â· Programming Tools: Python, Katalon studio, XLS data input, UNIX Shell/PERL scripting, Groovy, REST, JSON, XML, ISO 8583, EMV
+· Test Artifacts: Test Estimation, Test plan, Test coverage, Traceability matrix, bug tracking, automation design, Test scenario engineering
+· Programming Tools: Python, Katalon studio, XLS data input, UNIX Shell/PERL scripting, Groovy, REST, JSON, XML, ISO 8583, EMV
 tags, TCP, HTTP, POSTMAN, curl-siege, Jmeter, COBOL, JCL, CICS, Postman,
-Â· Operating Systems: Unix-AIX, Unix-Solaris, Linux, Windows, IBM-AIX
-Â· Virtual Systems: VMWare, VSphere, Proxmox,
-Â· Payment terminals: VeriFone, Ingenico, Equinox, PAX and Innowi, Key Management, KPI, DUKPT, Key Injection, KEK
-Â· Version Control Tools: Git-bash, Git-stash, Git-lab, TorquiseSVN, SourceTree, VSS
-Â· Database and Tools: Oracle 11g, Oracle 12c, PostgreSQL, MongoDB, PGAdmin 4, SQL Developer, SQL management studio, Toad,
+· Operating Systems: Unix-AIX, Unix-Solaris, Linux, Windows, IBM-AIX
+· Virtual Systems: VMWare, VSphere, Proxmox,
+· Payment terminals: VeriFone, Ingenico, Equinox, PAX and Innowi, Key Management, KPI, DUKPT, Key Injection, KEK
+· Version Control Tools: Git-bash, Git-stash, Git-lab, TorquiseSVN, SourceTree, VSS
+· Database and Tools: Oracle 11g, Oracle 12c, PostgreSQL, MongoDB, PGAdmin 4, SQL Developer, SQL management studio, Toad,
 DB2
-Â· Project Management: Confluence, Jira, Microsoft Office Suite, Bugzilla, redmine, HP Quality center
-Â· Project Management Methodologies: Agile, Scrum, Waterfall, Iterative,
-Â· Talent Management tools: HireRight, iCIMS
-Â· POS Systems: Micros, Restaurant Manager, Symphony, positouch, broadPOS
-Â· EMV Systems : BTT (UL), ICCVerify, VCMS, VTS, Astrex, Discover RCT, ATS, MAS, MDFS, ACI-Interchange, ACI-PRM, ACI-
+· Project Management: Confluence, Jira, Microsoft Office Suite, Bugzilla, redmine, HP Quality center
+· Project Management Methodologies: Agile, Scrum, Waterfall, Iterative,
+· Talent Management tools: HireRight, iCIMS
+· POS Systems: Micros, Restaurant Manager, Symphony, positouch, broadPOS
+· EMV Systems : BTT (UL), ICCVerify, VCMS, VTS, Astrex, Discover RCT, ATS, MAS, MDFS, ACI-Interchange, ACI-PRM, ACI-
 ADM, TSYS CertifyNow, FirstData CertPro and more.

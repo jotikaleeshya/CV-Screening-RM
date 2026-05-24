@@ -21,15 +21,15 @@ Perform and review calculations for new design and facility support
 Write and review System Design Descriptions for new design
 Perform database maintenance for an equipment reliability system
 Company Name City , State Reliability Engineer Intern 05/2007 to 08/2009
-Summer 2007: Located on-site at DuPont Chambers Works â€“ Deepwater, NJ
+Summer 2007: Located on-site at DuPont Chambers Works – Deepwater, NJ
 Set up bearing ultrasound program integrating the maintenance with SAP
 Performed flow meter failure analysis
 Performed gearbox failure analysis
-Summer 2008: Located on-site at DuPont Titanium Technologies â€“ Edge Moore, DE
+Summer 2008: Located on-site at DuPont Titanium Technologies – Edge Moore, DE
 Designed new piping system for failed pipe
 Performed root cause failure analysis (RCFA) for failed pumps
 Developed a standardized job procedure for pipe flange make up
-Summer 2009: Located on-site at Renew Paper â€“ St. Francisville, LA
+Summer 2009: Located on-site at Renew Paper – St. Francisville, LA
 Established lubrication program for plant after a two-year shutdown
 Worked with vendors to determine appropriate lubrication types and methods
 Set up lubrication filtering and dehydration procedure for large containers of lubrication
@@ -43,7 +43,7 @@ Bachelor of Science : Aerospace Engineering December 2009 University of Tennesse
 Additional Information
 Six Sigma Lean/DFSS Green Belt November 2014
 Engineer in Training (EIT) January 2010
-DOE Level Q Security Clearance October 2010 â€“ February 2014
+DOE Level Q Security Clearance October 2010 – February 2014
 Skills
 Communication, Safety, AutoCAD, Customer Service, Database, Quality, Research and Design, SAP, Root Cause Failure Modes and Effects
 Analysis, Lubrication

@@ -26,7 +26,7 @@ techniques for these exposures. Responded and communicated with senior engineers
 Senior Capstone Project , 09/2007 to 06/2008 Company Name ï¼​ City , State
 Specified, selected, and implemented a Supervisory Control and Data Acquisition System to gather data from wind generators and a
 weather station.
-Final system used a crossbow moteÂ© that acquired generator speed, current output, voltage, wind speed, wind direction, temperature,
+Final system used a crossbow mote© that acquired generator speed, current output, voltage, wind speed, wind direction, temperature,
 and sunlight.
 Research and Development Associate , 05/2000 to 09/2000 Company Name ï¼​ City , State
 Worked in wood products development, team-designing and testing pre-market materials.

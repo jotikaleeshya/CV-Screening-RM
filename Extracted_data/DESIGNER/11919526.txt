@@ -16,21 +16,21 @@ Adobe: Captivate, Media Encoder, Reader
 Microsoft:Â Excel, Internet Explorer, Media Player, Outlook, Paint, PowerPoint, SharePoint, Skype, Visio, Word
 Google: Chrome, Docs, Drive, Forms, Gmail, SheetsÂ
 IBM: DB2, SQL, Stored Procedures, Kenexa
-Other: Apple iMovie,Â Dayana Networks Voice Record Pro,Â SAP Success Factors, Tech Smith Snag It, VMWare, YouTube, C,
-Â HTML, JavascriptÂ
-â€‹
+Other: Apple iMovie, Dayana Networks Voice Record Pro, SAP Success Factors, Tech Smith Snag It, VMWare, YouTube, C,
+ HTML, JavascriptÂ
+​
 Work Experience
 E-LEARNING DESIGNER
 July 2015 to Current Company Name ï¼​ City , State
 Design, developed and p roject managed education team for 501(r)Â regulatory compliance curriculum including learning objectives,
-content analysis,Â story boarding, interactive design, test, project scheduling,Â instructional design and d evelopment designÂ
-Design, developed and project managed education team for We ID for Patient Safety including learning objectives, content analysis,Â story
-boarding, interactive design, problem based scenarios, test, project scheduling,Â instructional design and development designÂ
+content analysis, story boarding, interactive design, test, project scheduling, instructional design and d evelopment designÂ
+Design, developed and project managed education team for We ID for Patient Safety including learning objectives, content analysis, story
+boarding, interactive design, problem based scenarios, test, project scheduling, instructional design and development designÂ
 Analysed, designed, documented and tested e-Learning process for new LMS and authoring tool including pretest, posttest, curriculum,
 SCORM and feedback surveysÂ
 Designed, tested and implemented technical solution for SharePoint training resource pages, knowledge center, Â navigation and
 department sites
-Researched, designed, tested and implemented a solution for How To videos on SharePoint video channel â€‹
+Researched, designed, tested and implemented a solution for How To videos on SharePoint video channel ​
 INSTRUCTIONAL DESIGNER
 May 2009 to June 2015 Company Name ï¼​ City , State
 Gathered requirements, allocated and managed budgets, designed and developed curriculum, managed eLearning and ILT delivery, planned
@@ -39,7 +39,7 @@ requirements, and advised leadership from first line managers to senior executiv
 I ntegrated technology in training, designed, developed and delivered eLearning and ILT experiences, designed, maintained and updated
 eLearning and ILT training materials, created and maintained training project time lines, ensured quality content and materials, included
 instructional pedagogy and adult learning theories, assessed learning outcomes and used eLearning authoring tools and techniques.
-â€‹
+​
 TRAINER
 January 1991 to April 2009 Company Name ï¼​ City , State
 Designed, developed, authored, delivered and implemented training delivered in the class room and online for data and security software
@@ -68,8 +68,8 @@ Community Service
 Innovation Hub Stakeholder at the Illinois Math and Science Academy
 Volunteer Instructional Designer at York High School
 Society President for the Children of the American Revolution Society
-Volunteer forÂ York Athletic Boosters
-Volunteer forÂ York Academic Boosters
+Volunteer for York Athletic Boosters
+Volunteer for York Academic Boosters
 Coach for Sandburg Science Olympiad Team
 Coach for American Youth Soccer Organization
 Volunteer for Elmhurst Swim TeamÂ

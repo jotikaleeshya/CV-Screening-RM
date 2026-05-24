@@ -9,7 +9,7 @@ A track record of increasing responsibility in network security, systems analysi
 Works with IT department staff and management to inform of processes and procedures and training as needed.Â
 Clearly understands the importance of SLA agreements and standards for all incidents and cases.
 Skills
-Microsoft WindowsÂ® operating systems Windows NT, 2000, XP, Vista, and Win7.
+Microsoft Windows® operating systems Windows NT, 2000, XP, Vista, and Win7.
 iSeries IFS, iSeries Navigator, IBM Tivoli
 Administration tools for Windows Server 2003-2008
 Networking: TCP/IP, SMS, WSUS, Ethernet, VPN, SecureID

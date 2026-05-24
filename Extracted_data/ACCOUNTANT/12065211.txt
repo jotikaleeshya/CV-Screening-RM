@@ -8,7 +8,7 @@ Aderant/CMS Financial reporting
 Excel US GAAP principles
 QuickBooks Pro IFRS
 SQL Bookkeeping
-AccessÂ Budget development
+Access Budget development
 Peachtree Individual tax returns
 Hyperion Essbase
 Work History
@@ -21,9 +21,9 @@ Perform assigned schedules for interim and annual audits.Â
 Assist auditors with understanding of firm's internal controls which include revenue and expenditure cycle. Â
 Review and analyze journal entries from the original accounting source and if a variance from the general ledger is found, initiate discussions
 with specialists in accounts receivable, accounts payable, payroll, and tax department to resolve the discrepancy.
-Review and analyze international payrolls inÂ aspect of income tax, local tax, consumption tax, and fringe benefit deductions for Seoul,
+Review and analyze international payrolls in aspect of income tax, local tax, consumption tax, and fringe benefit deductions for Seoul,
 Shanghai, and Tokyo office and upload into Aderant/CMS for posting into the general ledger.
-Analyze and reconcileÂ value added tax for Vienna and Seoul office
+Analyze and reconcile value added tax for Vienna and Seoul office
 Resolve currency fluctuation issues and record gains/losses related to currency exchange rates for the international offices of the firm by
 using currency mode journal entries.
 Analyze expatriate expenditures on monthly basis to be reported on W-2 form.

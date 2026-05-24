@@ -2,7 +2,7 @@
 DIRECTOR OF ENGINEERING
 Experience
 Director of Engineering , 04/2018 to 05/2018
-Company Name â€“ City , State
+Company Name – City , State
 Calero is a leading provider of Communications Lifecycle Management (CLM) solutions designed to turn communication data into
 actionable insight by simplifying the management of voice, mobile, and other communications services and assets
 In control of two new product development teams and one legacy team working driving future growth
@@ -14,7 +14,7 @@ Powering one-click upgrades / migrations, seamless movement across nodes, and un
 Created a new product segment for mobility including new mobile-first UI design, e-bonding, self-service responsive portal, unbilled usage
 tracking, and workflow-enabled device ordering
 Sr. Director Software Development , 04/2016 to 04/2018
-Company Name â€“ City , State
+Company Name – City , State
 CLA is an alternative consumer lending providing consumer loans and various financial products
 Lead three different development teams focused on different areas of business: consumer lending, merchants, and medical insurance
 Responsible for business analysts, quality assurance, database administration, product management, and software development
@@ -23,7 +23,7 @@ Increased quality and decreased time between releases
 Implemented a new single ticketing system across the company
 Created a new application with responsive UI for mobile and tablets for healthcare
 VP of Engineering and Operations , 08/2013 to 04/2016
-Company Name â€“ City , State
+Company Name – City , State
 Www.pictureu.com PictureU is an innovator in the use of imaging and data capture technologies for experiential marketing and photo
 concessions
 Was responsible for all technology and operations in the organization
@@ -36,7 +36,7 @@ customizations, 3 former customers returned
 Responsible for customer / technical support, training, shipping, receiving, inventory, QA, software development, and procurement
 Kept customer satisfaction ratings in the high 90 percent
 CTO , 02/2012 to 08/2013
-Company Name â€“ City , State
+Company Name – City , State
 Www.ticketalternative.com Ticket Alternative provides a wide range of ticketing and box office solutions
 TA also prints millions of tickets and sells millions of event wristbands for independent distribution throughout the U.S
 And the U.K
@@ -46,7 +46,7 @@ Hired technology team from scratch
 Developed event ticketing & box office system in three months which increased online sales by 45% and total sales by 65%
 Designed multi-tenant DIY ticketing and deal platform
 Co-Founder and COO , 01/2011 to 02/2012
-Company Name â€“ City , State
+Company Name – City , State
 Www.triplingo.com Mobile and web software company that upgrades trips for business and leisure travelers by making it easy and fun to
 learn the local language and culture by providing customized content on your smartphone and the web
 Managed all operations, participated in all partnerships and sales, raised funding, controlled burn, and provided technical guidance
@@ -55,7 +55,7 @@ Drove over 45,000 downloads in App Store from launch
 Built 14 mobile applications, starting on iOS migrated to Nook and Android, all in 9 months from founding
 Created an award-winning product that was featured on the Apple App Store an amazing 6 times
 VP of Engineering , 01/2009 to 12/2010
-Company Name â€“ City , State
+Company Name – City , State
 
 --- Page 2 ---
 Www.deposco.com Offered on-demand software solutions that reduced cost and complexity while streamlining the company's supply chain
@@ -66,7 +66,7 @@ Launched version 2; major features: architectural improvements, rock-solid stabi
 growth
 Migrated development and QA from primarily outsourced team to a total onshore team reducing total costs by boosting productivity
 VP Solutions Sales , 09/2006 to 12/2008
-Company Name â€“ City , State
+Company Name – City , State
 SVG is the leader in Service Lifecycle Management products and solutions
 Initially, directed technical pre-sales leading 10 consultants in presenting, demos, and marketing to Fortune 1000 customers
 Leading product marketing, accountable for worldwide marketing across all products defining strategy in sales, pricing, market, and
@@ -85,7 +85,7 @@ and order management
 Led product management focused on customization specifications, new product requirements, and market planning
 Supervised a hybrid team of onshore and offshore development
 Independent Consultant , 01/2003 to 04/2004
-Company Name â€“ City , State
+Company Name – City , State
 Provided high-level technical consulting on multiple long-term projects
 Performed web services design and data migration for a major credit card company by utilizing .Net technology for their hospitality
 customers
@@ -93,7 +93,7 @@ Selected by the Distributed Computing Industry Association to perform Data Right
 Designed a technology DRM media wrapper to trigger B2C e-commerce cart and order
 Created and sold technology aggregating in real-time 15 popular job service boards
 CTO & Founder , 10/1999 to 11/2002
-Company Name â€“ City , State
+Company Name – City , State
 Www.mediaocean.com Created the first electronic television and radio sales management system with full integration to multiple systems
 and all stakeholders
 Developed objectives, policies, budgets, and operating plans for the development, quality, production operations, and IT departments and

@@ -5,9 +5,9 @@ C++, Python, MATLAB, Git, Bash, R, SQL (basic). Experienced in Linux/Unix and us
 Machine Learning Tools and Libraries: Scikit-learn, Pandas, Seaborn, matplotlib, TensorFlow (basic). (I built a XGBoost
 model that has 77.5% accuracy in the Kaggle Titanic challenge.)
 Computational Fluid Dynamics and Discrete Element Method Codes
-CFD-DEM, OpenFOAM, CFD-ACE+Â®, FluentÂ®, COMSOLÂ®, LAMMPS, and LIGGGHTS.
+CFD-DEM, OpenFOAM, CFD-ACE+®, Fluent®, COMSOL®, LAMMPS, and LIGGGHTS.
 Reservoir and Fracture Modeling Tools
-CMGÂ® for reservoir simulation; FracProÂ® for fracture simulation and analysis; Saphir for pressure transient analysis.
+CMG® for reservoir simulation; FracPro® for fracture simulation and analysis; Saphir for pressure transient analysis.
 Experimental and Statistical Methods
 SEM, AFM, Confocal Microscopy, Regression analysis, Statistical process control, Design of experiments.
 Experience
@@ -52,20 +52,20 @@ The findings correspond remarkably well with previous field observations and ena
 Designed highly mixing-efficient serpentine channels for biomedical detection.
 Devised mixing index to quantify mixing efficiency of two heterogeneous fluids flowing in microfluidic channels.
 Interests
-SPE translator, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS Â· Wu, C.-H.,
+SPE translator, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS · Wu, C.-H.,
 Sharma, M. M. 2017. A DEM-based approach for evaluating the pore throat size distribution of a filter medium, Powder Technology, ISSN
-0032-5910, https://doi.org/10.1016/j.powtec.2017.09.018. Â· Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2017. Factors Governing the
+0032-5910, https://doi.org/10.1016/j.powtec.2017.09.018. · Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2017. Factors Governing the
 Predicted Performance of Multilayered Metal-Mesh Screens. SPE Drilling & Completion. SPE-178955-PA. https://doi.org/10.2118/178955-PA.
 
 --- Page 2 ---
-Â· Wu, C.-H., Sharma, M. M. 2016. Effect of Perforation Geometry and Orientation on Proppant Placement in Perforation Clusters in a
+· Wu, C.-H., Sharma, M. M. 2016. Effect of Perforation Geometry and Orientation on Proppant Placement in Perforation Clusters in a
 Horizontal Well. Paper SPE-179117-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 9-
 11 February 2016. Wu, C.-H., Yi, S., Sharma, M. M. 2017. Proppant Distribution Among Multiple Perforation Clusters in a Horizontal
 Wellbore. Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 24-26
-January 2017. Â· Mondal, S., Wu, C.-H., Sharma, M. M. et al. 2016. Characterizing, Designing, and Selecting Metal Mesh Screens for
-Standalone-Screen Applications. SPE Drill & Compl 31 (2): 85-94. SPE-170935-PA. http://dx.doi.org/10.2118/170935-PA. Â· Mondal, S.,
+January 2017. · Mondal, S., Wu, C.-H., Sharma, M. M. et al. 2016. Characterizing, Designing, and Selecting Metal Mesh Screens for
+Standalone-Screen Applications. SPE Drill & Compl 31 (2): 85-94. SPE-170935-PA. http://dx.doi.org/10.2118/170935-PA. · Mondal, S.,
 Wu, C.-H., Sharma, M. M. 2016. Coupled CFD-DEM Simulation of Hydrodynamic Bridging at Constrictions. Int. J. Multiph. Flow, Vol. 84, pp.
-245-263, ISSN 0301-9322, http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.05.001. Â· Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H.,
+245-263, ISSN 0301-9322, http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.05.001. · Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H.,
 Sharma, M. M., Ayoub, J. A., & Parlar, M. 2015. Particle Size
 Education and Training
 May 2018 Ph.D : UT Austin - PETROLEUM ENGINEERING Scientific Computation City , State PETROLEUM ENGINEERING Scientific
@@ -79,21 +79,21 @@ Skills
 approach, Bash, basic, C++, competitive, DAS, Design of experiments, functional, lab-test, Linux, Machine Learning, MATLAB, Modeling,
 novel, optimization, process control, Programming, proxy, Python, Simulation, SQL, Statistical process control, Supervisor, Unix
 Additional Information
-LEADERSHIP and VOLUNTEER Â· Served as a Second Lieutenant in an artillery company in the Taiwan Army during 2010-2011. Â·
-Qualstar Award, Qualcomm, 2012 and 2013 Â· Qualcomm Know-how Incentive Award, Qualcomm, 2013 Â· Technical Editor of SPE
-Journal, SPE Drilling and Completion, SPE Production and Operations, 2017-present Â· Volunteer experience: SPE translator, Nepal
-medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS Â· Wu, C.-H., Sharma, M. M.
+LEADERSHIP and VOLUNTEER · Served as a Second Lieutenant in an artillery company in the Taiwan Army during 2010-2011. ·
+Qualstar Award, Qualcomm, 2012 and 2013 · Qualcomm Know-how Incentive Award, Qualcomm, 2013 · Technical Editor of SPE
+Journal, SPE Drilling and Completion, SPE Production and Operations, 2017-present · Volunteer experience: SPE translator, Nepal
+medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS · Wu, C.-H., Sharma, M. M.
 2017. A DEM-based approach for evaluating the pore throat size distribution of a filter medium, Powder Technology, ISSN 0032-5910,
-https://doi.org/10.1016/j.powtec.2017.09.018. Â· Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2017. Factors Governing the Predicted
-Performance of Multilayered Metal-Mesh Screens. SPE Drilling & Completion. SPE-178955-PA. https://doi.org/10.2118/178955-PA. Â·
+https://doi.org/10.1016/j.powtec.2017.09.018. · Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2017. Factors Governing the Predicted
+Performance of Multilayered Metal-Mesh Screens. SPE Drilling & Completion. SPE-178955-PA. https://doi.org/10.2118/178955-PA. ·
 Wu, C.-H., Sharma, M. M. 2016. Effect of Perforation Geometry and Orientation on Proppant Placement in Perforation Clusters in a
 Horizontal Well. Paper SPE-179117-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX,
 USA, 9-11 February 2016. Wu, C.-H., Yi, S., Sharma, M. M. 2017. Proppant Distribution Among Multiple Perforation Clusters in a
 Horizontal Wellbore. Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands,
-TX, USA, 24-26 January 2017. Â· Mondal, S., Wu, C.-H., Sharma, M. M. et al. 2016. Characterizing, Designing, and Selecting Metal
+TX, USA, 24-26 January 2017. · Mondal, S., Wu, C.-H., Sharma, M. M. et al. 2016. Characterizing, Designing, and Selecting Metal
 Mesh Screens for Standalone-Screen Applications. SPE Drill & Compl 31 (2): 85-94. SPE-170935-PA.
-http://dx.doi.org/10.2118/170935-PA. Â· Mondal, S., Wu, C.-H., Sharma, M. M. 2016. Coupled CFD-DEM Simulation of
+http://dx.doi.org/10.2118/170935-PA. · Mondal, S., Wu, C.-H., Sharma, M. M. 2016. Coupled CFD-DEM Simulation of
 Hydrodynamic Bridging at Constrictions. Int. J. Multiph. Flow, Vol. 84, pp. 245-263, ISSN 0301-9322,
-http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.05.001. Â· Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H., Sharma, M. M.,
+http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.05.001. · Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H., Sharma, M. M.,
 Ayoub, J. A., & Parlar, M. 2015. Particle Size Distribution Measurement Techniques and Their Relevance or Irrelevance to Sand Control
 Design. SPE Drill & Compl 30 (2): 164-174. SPE-168152-PA. http://dx.doi.org/10.2118/168152-PA.

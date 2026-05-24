@@ -6,9 +6,9 @@ Expertise includes team leadership, technical architecture, training and develop
 analysis. Dynamic, resourceful, and extremely driven individual with a deep passion for creating and delivering programs and solutions that
 empower a team, company, and customer to meet and exceed desired expectations
 Skills
-â€¢Infrastructure ManagementÂ â€¢Data Center Operations â€¢Project ManagementÂ â€¢Team Building/CoachingÂ â€¢Vendor
-Management and NegotiationÂ â€¢Budget ManagementÂ â€¢Policy/Program Development Â â€¢LAN/WAN, SAN, Firewalls and
-RoutersÂ â€¢
+•Infrastructure Management •Data Center Operations •Project Management •Team Building/Coaching •Vendor
+Management and Negotiation •Budget Management •Policy/Program Development  •LAN/WAN, SAN, Firewalls and
+Routers •
 Experience
 Company Name City , State Vice President Information Technology Infrastructure Operations 06/2008 to Current
 Reduced overall network bandwidth costs over 15%, through ISP consolidation and management.
@@ -31,7 +31,7 @@ product development and implementation process.
 Monitor functioning of equipment and make necessary modifications to ensure system operates in conformance with specifications.
 Build, test, and modify product prototypes using working models or theoretical models constructed with computer simulation.
 Store, retrieve, and manipulate data for analysis of system capabilities and requirements.
-Setup, maintained, and monitored over 90 remote branch office locations.Â Each with internet access and tied back to Chicago office
+Setup, maintained, and monitored over 90 remote branch office locations. Each with internet access and tied back to Chicago office
 through IPsec tunnel to Cisco ASA.
 Responsible for Entrapass Security system allowing access to suite doors utilizing ID badge.
 Setup, configured and supports multiple CRM and ERP Systems (Sage MAS500 and CRM Dynamics), as well as converting QuickBooks

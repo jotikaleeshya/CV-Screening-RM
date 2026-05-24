@@ -2,7 +2,7 @@
 INFORMATION TECHNOLOGY SPECIALIST
 Summary
 Information Security Analyst/Systems professional with over 16 years of diverse experience across the analysis, troubleshooting, management and
-testing of complex IT systems. Â Experience includesÂ analytical support to computer surveillance activities in Cyber Security, Intrusion detection
+testing of complex IT systems.  Experience includes analytical support to computer surveillance activities in Cyber Security, Intrusion detection
 analysis and System Administration. Â Also knowledgeable in Military Cyber Operations.Â
 Security Clearance
 Currently hold an active TS/SCI Security Clearance. Â Last updated in 2013.
@@ -13,9 +13,9 @@ Work Experience
 Information Technology Specialist , 05/2009 ï¼​ Current Company Name ï¼​ City , State
 Provide electronic surveillance of information systems, perform digital evidence analysis (DEA), and provide technical analytical support to
 computer surveillance activities.
-â€‹Provide traffic analysis against adversary's (TTP) tactics, techniques and protocols. Â
+​Provide traffic analysis against adversary's (TTP) tactics, techniques and protocols. Â
 Configure and install routers, switches and wireless controllers.
-Draft training materials and organize training sessions forÂ 6Â employees.
+Draft training materials and organize training sessions for 6 employees.
 Network Security Analyst , 08/2008 ï¼​ 05/2009 Company Name ï¼​ City , State
 Analyzed software, hardware and network systems for various transmission systems.
 Identified, reported and resolved network security violations.
@@ -30,7 +30,7 @@ Provided immediate analysis and verification of network activity using Automatic
 Intrusion Detection System (CIDS).
 Detected network intrusions and applied appropriate methods of counter activity.
 Analyzed trends of all network activity.
-Provided daily activity reports to management and headquarters.Â Â Â
+Provided daily activity reports to management and headquarters.  Â
 Education and Training
 2018 Park University ï¼​ City , State , United States Bachelor of Science Information and Computer Science Emphasis in Network Security
 2015 CompTIA Certified in Security Fundamentals (Security+)

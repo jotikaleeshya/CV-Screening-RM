@@ -40,9 +40,9 @@ functional teams
 Meticulously maintained SDR for Adobe analytics, AI, loyalty, and OMS; accelerate data migration to Salesforce (Demandware and
 ExactTarget)
 Enthusiastically train new hires in digital space, reporting and vendor dashboardsÂ
-Intellectually construct presentations with complex analytical findings, and deliver a finished product that is clear, concise, â€œdigestibleâ€​
+Intellectually construct presentations with complex analytical findings, and deliver a finished product that is clear, concise, "digestibleâ€​
 and focused on key drivers for Senior Leadership
-Technical Analytics â€“ good working knowledge of SQL, HTML, JavaScript, and jQuery
+Technical Analytics – good working knowledge of SQL, HTML, JavaScript, and jQuery
 Company Name City , State Web/Business Analytics Manager - eCommerce 03/2014 to 12/2016
 Delivered profound analytics solutions to journey managers, merchandisers and marketing operations groups; as well as provide
 recommendations for areas of optimization

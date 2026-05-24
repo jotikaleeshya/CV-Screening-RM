@@ -18,14 +18,14 @@ Staff development
 Risk management processes and analysis
 Work History
 09/2012 to Current
-Regional IT Manager Company Name â€“ City , State
+Regional IT Manager Company Name – City , State
 Acted as project manager for $10mn New York office move and serves on advisory board for all international office moves .
 Direct the after-hours (12p.m.EDT) delivery of first, second, and third-level technical support end users across 14 office facilities and
 locations, including 500+ lawyers and 500+ staff members.
 Ensure prompt and courteous technical support.
 Manage, train and review support staff team members.
 Developed SMART objectives and KPI's to continually motivate staff.
-Review help desk metrics with Â help desk manager to ensure tickets are addressed according to SLA.Â
+Review help desk metrics with  help desk manager to ensure tickets are addressed according to SLA.Â
 Identify recurring issues to address with global software and applications manager.
 Work with cross-functional technology committee to create policies that accurately reflect current and future technology trends.
 Work with international trainers to oversee local training requests.
@@ -45,7 +45,7 @@ Increased first call resolution from 85% to 98% through help desk training and c
 Supports Director of Technology with daily operational functions.
 Assisted various business groups with document organization and dissemination during acquisitions.
 06/2007 to 09/2011
-Technical Support Analyst Company Name â€“ City , State
+Technical Support Analyst Company Name – City , State
 Collaborated with the sales, marketing and support teams to launch products on time and within budget.
 Maintained and monitored the server room, the wireless network and other server infrastructure.
 Set up staff workstations with PCs, Macs, phones and laptops.
@@ -55,7 +55,7 @@ Acted as technology liaison between technology department and global recruiting 
 Tested and implemented new technology-based global projects such as Nuance PDFCreate.
 Delivered on-site IT and AV technical support for 300+ staff in local and regional offices.
 03/2007 to 06/2007
-Desktop Support Technician Company Name â€“ City , State
+Desktop Support Technician Company Name – City , State
 Hands on roll in Domestic and International OS migration from WinXP to Win7. Â Worked with engineering and applications staff to
 resolve any problems related to the upgrade until functional.
 Key responsibility to support all users from C-Level firm chairman through contract services by troubleshooting and resolving all problems
@@ -67,7 +67,7 @@ mainly virtual Citrix desktop.Â
 Work with various interdepartmental groups to resolve in depth issues regarding security and accounts.
 Install and configure hardware and software as it relates to users needs.
 10/2004 to 02/2007
-Software Licensing Coordinator Company Name â€“ City , State
+Software Licensing Coordinator Company Name – City , State
 Client facing manager responsible for all aspects of department.
 Managed department budget; Responsible for personnel and department operation.
 Handled monthly billing.
@@ -82,7 +82,7 @@ Education
 Master of Science : Information Management W.P. Carey School of Business of Arizona State University - City , State
 Information Management
 Bachelor of Arts : Psychology, Sociology Chinese Studies Emory University - City , State
-Major(s): Psychology, Sociology Â Minor: Chinese Studies
+Major(s): Psychology, Sociology  Minor: Chinese Studies
 Skills
 Budget management.
 Supervision skills.Â

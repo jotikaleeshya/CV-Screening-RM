@@ -12,7 +12,7 @@ Work History
 Information Technology Specialist I
 Summary of Skills and Qualifications:.
 07/2008 to Current
-Computer Network Specialist Company Name â€“ City , State
+Computer Network Specialist Company Name – City , State
 I serve as the Lan Administrator.
 I installed and maintain over 100 servers.
 I installed and maintain a Hyper V cluster of 9 nodes.
@@ -27,7 +27,7 @@ I perform new employee technology orientations and cellphone training in groups 
 I write or modify scripts such as Powershell, VBscript.
 I administer a Vsphere server.
 06/2001 to 07/2008
-Technology Specialist III Company Name â€“ City , State
+Technology Specialist III Company Name – City , State
 Install and configure HP network switches, program switch ports and assign vlans, connect network wall ports and terminate network
 cables when necessary, troubleshoot network port communication errors and take appropriate action to correct problems, utilize TCP/IP
 utilities such as ping, tracert and ipconfig to diagnose network problems, installed and maintain Whats up network device connectivity

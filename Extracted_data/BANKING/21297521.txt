@@ -2,7 +2,7 @@
 MANAGER
 Experience
 Manager , 11/2013 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Manage a large global team of up to 50 Managers, Technical Leads and Software Developers across a portfolio of 25 LOB applications.
 My responsibilities include:.
 Vendor management, RFPs, vendor selection, scope based contractual obligations, and negotiations on Fixed Bid, Fixed Scope, T&M
@@ -30,7 +30,7 @@ Key role & contributions to Identity Management (IdM) and REST based API referen
 iOS (Objective-c / Swift) HTML, JavaScript, PHP/Drupal OnPrem & Cloud-native architectures at all levels of abstraction (IaaS, PaaS,
 12-factor, Containerized & Serverless.
 Senior Director , 01/2011 to 05/2013
-Company Name â€“ City , State
+Company Name – City , State
 Headed the Solution Architecture and Project Management Office responsible for designing and delivering marquee consumer facing digital
 streaming on Web, iOS, Android, ROKU, XBOX and other platforms.
 My Responsibilities included:.
@@ -75,7 +75,7 @@ Experience with Social Analytics (close-knit Networks & Decision Trees) and some
 Design patterns and anti-patterns.
 Work History
 Manager , 11/2013 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Manage a large global team of up to 50 Managers, Technical Leads and Software Developers across a portfolio of 25 LOB applications.
 My responsibilities include:.
 Vendor management, RFPs, vendor selection, scope based contractual obligations, and negotiations on Fixed Bid, Fixed Scope, T&M
@@ -104,7 +104,7 @@ iOS (Objective-c / Swift) HTML, JavaScript, PHP/Drupal OnPrem & Cloud-native arc
 12-factor, Containerized & Serverless.
 Senior Director , 01/2011 to 05/2013
 07/2010 to 12/2010
-Company Name â€“ City , State
+Company Name – City , State
 Headed the Solution Architecture and Project Management Office responsible for designing and delivering marquee consumer facing digital
 streaming on Web, iOS, Android, ROKU, XBOX and other platforms.
 My Responsibilities included:.

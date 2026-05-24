@@ -46,7 +46,7 @@ mapping.
 Education and Training
 B.S : Business Administration, Management & Marketing Option , May 2014 The Pennsylvania State University Business Administration,
 Management & Marketing Option 3.51 Dean's List (6)
-Master of Professional Studies in Data Analytics â€“ Business Analytics Option , 2018 The Pennsylvania State University ï¼​ City , State
+Master of Professional Studies in Data Analytics – Business Analytics Option , 2018 The Pennsylvania State University ï¼​ City , State
 Master of Professional Studies : Data Analytics - Business Analytics Option , Present The Pennsylvania State University Data Analytics - Business
 Analytics Option 3.71
 Marketing Assistant , October 2014 I.C.A.P (Indian Cultural Association of Pennsylvania) ï¼​ City , State Marketing Assistant Complete event
@@ -62,7 +62,7 @@ Languages
 --- Page 2 ---
 Trilingual - English, Hindi, and Guajarati
 Technical Qualifications
-Communication: Trilingual â€“ English, Hindi, and Gujarati
+Communication: Trilingual – English, Hindi, and Gujarati
 Documentation Tools: Microsoft Office Suite, Enterprise Architect
 Project Management: JIRA, Rally Methodologies: SDLC, Agile, and Scrum
 Language Familiarity: SQL, CSS, JavaScript, XML, HTML, XHTML, and HTML5

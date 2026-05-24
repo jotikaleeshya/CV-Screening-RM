@@ -2,7 +2,7 @@
 DIGITAL ADVERTISING CONSULTANT
 Experience
 Digital Advertising Consultant , 07/2013 to 12/2017
-Company Name â€“ City , State
+Company Name – City , State
 Responsible for negotiation and execution of programmatic and direct buys and handle the day- to-day campaign operations across multiple
 DSPs and other partners.
 Responsible for accessing company's digital strategy and recommend tactics to achieve platform efficiencies and brand awareness.
@@ -15,7 +15,7 @@ Maintained all ad campaigns and ensured appropriate reports and delivery rates.
 Worked with web development team to implement tracking pixels.
 Be the main point of entry for all internal and external tracking pixel placements.
 Sales Engineer , 03/2008 to 04/2010
-Company Name â€“ City , State
+Company Name – City , State
 Provided pre-sales technical assistance and on-line product education of SaaS ad serving management software AdJuggler.
 Created and presented training courses on relevant and proper ad operations workflow for 80+ publisher and marketer clients in the B2B
 and B2C business.
@@ -47,7 +47,7 @@ Produced In-platform contextual instructional video modules for the AdJuggler Ad
 Solicited and incorporate feedback from Beta User and Clients of the Ad Server Platform to improve workflow with the UI/UX design of
 the Ad Server.
 Client Data Analyst , 06/2007 to 03/2008
-Company Name â€“ City , State
+Company Name – City , State
 Provided on-line customer support for leading software's, RoboForm Pro, RoboForm2Go and Goodsync, through web based customer
 support application.
 Assisted Customers with downloading, activation, and technical issues via telephone.
@@ -67,7 +67,7 @@ and detailed campaign analysis. Proficient in the use of various reporting tools
 about digital media.
 Highlights
 DoubleClick (DFP-Certified, DCM & DBM) as well as an understanding of programmatic advertising delivery processes, including but not
-limited to Ad Exchanges, Demand and Supply Side platforms, RTB, and prevailing industry standards (VAST, VPAID, MRAID, IAB etc.) Â·
+limited to Ad Exchanges, Demand and Supply Side platforms, RTB, and prevailing industry standards (VAST, VPAID, MRAID, IAB etc.) ·
 Applications: Proficient in Basic SQL, JavaScript, and HTML5/CSS
 Skills
 Ad, Advertising, B2B, Basic, competitive, contract management, credit, CSS, client, Clients, customer support, client support, DBM, delivery, E-

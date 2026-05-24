@@ -17,9 +17,9 @@ from 15-60 people, with P&L responsibilities between $2M - $6M. Teams have been 
 Argentina. Consistently an early adopter of critical trends in methodologies and practices, which transform and refine processes to increase the
 delivery of business value.
 Skill Highlights
-Technology Â· Java Â· Amazon AWS Â· Hibernate Â· PHP Â· EC2 Â· Elastic Search Â· C++ Â· JSMVC Â· JUnit Â· C Â· HTML Â·
-Selenium Â· CanJS Â· CSS Â· Aurora Â· PL/SQL Â· Bootstrap Â· Jenkins Â· Oracle Â· Python Â· Phabricator Â· My/SQL Â· AJAX Â·
-GitHub Â· JavaScript Â· Camel Â· Jira Â· REST and SOAP services Â· MongoDB Â· Perl
+Technology · Java · Amazon AWS · Hibernate · PHP · EC2 · Elastic Search · C++ · JSMVC · JUnit · C · HTML ·
+Selenium · CanJS · CSS · Aurora · PL/SQL · Bootstrap · Jenkins · Oracle · Python · Phabricator · My/SQL · AJAX ·
+GitHub · JavaScript · Camel · Jira · REST and SOAP services · MongoDB · Perl
 Professional Experience
 Engineering Operations Director
 January 2014 to Current Company Name ï¼​ City , State

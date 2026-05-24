@@ -6,7 +6,7 @@ infrastructure. Equipped with excellent communication and interpersonal skills; 
 analytical and problem solving skills, and is who is committed in delivering quality services to customers/clients.
 Experience
 Information Technology Specialist 03/2018 to Current Company Name City , State
-Â Primary responsibilities include production support, installation and configuration, migration, backup and recovery, performance tuning,
+ Primary responsibilities include production support, installation and configuration, migration, backup and recovery, performance tuning,
 cloning, security, upgrades, and patches.
 Planned, installed and upgraded multiple Oracle databases from 11.2.0.4 to 12.2.0.
 Added targets to OEM 13c and used OEM 13c to monitored databases.
@@ -82,4 +82,4 @@ Platforms: Oracle Enterprise Linux 5.11, 6.7, 7, HP-UX 10.x, 11.x. Sun Solaris 2
 Tools : TKPROF, EXPLAIN PLAN, STATSPACK, AWR, and ADDM Toad, Putty, X-wing32, WinSCP.Â
 Database Utilities : Oracle Enterprise Manager, Real Application Cluster, ASM, Transportable Tablespaces, SQL*Loader, RMAN,
 DataPump, Export, Import
-Languages :Â Â·SQL*PLUS, PL/SQL, UNIX Shell Scripting, Ksh, bash
+Languages : ·SQL*PLUS, PL/SQL, UNIX Shell Scripting, Ksh, bash

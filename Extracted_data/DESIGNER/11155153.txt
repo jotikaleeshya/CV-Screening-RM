@@ -117,7 +117,7 @@ Department of Energy's Waste Isolation Pilot Plant (WIPP) is the world's first u
 dispose of excess transuranic radioactive waste from research and production of nuclear weapons.
 Project facilities include disposal rooms mined 2,150 feet underground in a 2,000-foot thick salt formation.
 In my position, as the Senior Mechanical Designer, I supported design and documentation of the following projects associated with Remote
-Handling of Transuranic Radioactive Waste: Underground Radios Continues Air Monitoring (CAM) Remote Alarm, Filter Clip 2Â½ Ton
+Handling of Transuranic Radioactive Waste: Underground Radios Continues Air Monitoring (CAM) Remote Alarm, Filter Clip 2½ Ton
 Jib Crane for the Cask Preparation Station Radiation Source Holders Elevated Work Platform for Cask Preparation Station Shrouded
 Probe assemblies Hydraulic Wrench System for 10-160B Casks.
 

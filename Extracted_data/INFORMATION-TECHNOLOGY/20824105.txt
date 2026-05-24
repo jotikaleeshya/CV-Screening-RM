@@ -2,7 +2,7 @@
 INFORMATION TECHNOLOGY AND AWS ADMIN INTERN
 Experience
 Information Technology and AWS Admin Intern , 04/2019
-Company Name â€“ City , State
+Company Name – City , State
 Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's
 financial department.
 Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud.
@@ -13,7 +13,7 @@ Network Engineer Intern , 10/2015
 Company Name
 Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
 AWS Certified Solutions Architect- Associate , 10/2018
-Company Name â€“ City , State
+Company Name – City , State
 ID-J007G7C1MFE41RSQ) Aug 2019 Cisco Certified Network Associate - CCNA 200-125 (ID-CSCO13264710.
 04/2019
 Company Name
@@ -27,7 +27,7 @@ infrastructure (Linux, Ubuntu) Fall 2018.
 Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.
 Work History
 Information Technology and AWS Admin Intern , 04/2019
-Company Name â€“ City , State
+Company Name – City , State
 Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's
 financial department.
 Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud.
@@ -38,7 +38,7 @@ Network Engineer Intern , 10/2015
 Company Name
 Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
 AWS Certified Solutions Architect- Associate , 10/2018
-Company Name â€“ City , State
+Company Name – City , State
 ID-J007G7C1MFE41RSQ) Aug 2019 Cisco Certified Network Associate - CCNA 200-125 (ID-CSCO13264710.
 04/2019
 Company Name

@@ -2,11 +2,11 @@
 PROJECT MANAGER
 Professional Summary
 Accomplished Information technology professional with 20 years of experience in the software development life cycle (SDLC) with focus on
-Â application analysis and design, application development, systems testing, and systems integration. Â Certified as a Project Management
+ application analysis and design, application development, systems testing, and systems integration.  Certified as a Project Management
 Professional (PMP). Â Â Accustomed to managing multiple projects and priorities in fast-paced environments.
-Accomplished IT professional with 20 years of experience in the software development life cycle (SDLC) with focus on Â application analysis and
+Accomplished IT professional with 20 years of experience in the software development life cycle (SDLC) with focus on  application analysis and
 design, application development, systems testing, and systems integration. Â Certified as a Project Management Professional (PMP).
-Â Â Accustomed to managing multiple projects and priorities in fast-paced environments. Â Professional, detail-oriented Project Manager
+  Accustomed to managing multiple projects and priorities in fast-paced environments.  Professional, detail-oriented Project Manager
 motivated to drive projects from start to finish as part of a dynamic team.
 Skills
 Issue resolution Microsoft Office Suite
@@ -19,7 +19,7 @@ Organized Bug tracking
 Project planning Report delivery
 Work History
 Project Manager , 07/2013 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Leads and supports complex projects or programs including the planning, management, and implementation of assigned projects and/or
 programs within the Consumer Private Wealth Management portfolio of the Enterprise Execution Services organization.
 Creates and is responsible for critical project management deliverables such as the Business Case, Project Plan, Stakeholder
@@ -31,7 +31,7 @@ Business managers and Executive sponsors to agree on project scope and approach.
 Manages project financials and project resources Analyzes variances to the project schedule, scope, and budget.
 Directs changes to the project scope and cost and implements the appropriate change management processes to keep the project on track.
 Healthcare Product Manager , 07/2009 to 05/2013
-Company Name â€“ City , State
+Company Name – City , State
 Evaluated the systems needs of the Healthcare business and led a team of Business Analysts through the product lifecycle of new and
 existing systems.
 Collaborated with SCRUM team using Agile Methodology to define and deliver Healthcare systems strategy and roadmap.
@@ -47,7 +47,7 @@ Worked with stakeholders and product owner developing release plans Managed thir
 operations.
 Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases.
 Managing Consultant , 08/2000 to 04/2009
-Company Name â€“ City , State
+Company Name – City , State
 Designed and implemented supply chain transformation solutions for clients in the industrial sector to improve overall operational efficiencies
 and effectiveness.
 Managed boarding process for new customers of a global expense reporting solution tool.
@@ -67,7 +67,7 @@ throughout a bank holding company.
 Developed overall integrated project plan consisting of three projects led by IBM along with two other vendors, reporting project status to
 IBM and client executives.
 Technical Analyst , 06/1998 to 08/2000
-Company Name â€“ City , State
+Company Name – City , State
 Implemented package integration solutions for the healthcare industry.
 Provided the analysis, design, development, and deployment for a healthcare client/server application, HSD Diamond 950 C/S by using
 SQL, PL/SQL, and ORACLE.

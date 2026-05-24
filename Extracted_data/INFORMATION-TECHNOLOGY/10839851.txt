@@ -25,7 +25,7 @@ Video & Sound Cards
 CD-ROM Drives
 Multiplexors
 Scanners Experience with Information TechnologyÂ
-Monitors Strong Â software and application knowledge such as
+Monitors Strong  software and application knowledge such as
 Switches Avaya,Microsoft Office,and Remedy
 TCP/IP Configuration Installing,adding and deleting user accounts with Active Directory
 Installing, adding and deleting user accounts with Active
@@ -38,7 +38,7 @@ Ethernet cables
 Video & Sound Cards
 CD-ROM Drives
 Multiplexors Experience with Information TechnologyÂ
-Scanners Strong Â software and application knowledge such as
+Scanners Strong  software and application knowledge such as
 Monitors Avaya,Microsoft Office,and Remedy
 Switches Installing,adding and deleting user accounts with Active Directory
 TCP/IP Configuration Experience with Information Technology Service Managment
@@ -51,7 +51,7 @@ Experience with Information Technology Service Management
 Ethernet cables
 Experience with Information TechnologyÂ
 CD-ROM Drives
-Strong Â software and application knowledge such as
+Strong  software and application knowledge such as
 Scanners
 Avaya,Microsoft Office,and Remedy
 TCP/IP Configuration

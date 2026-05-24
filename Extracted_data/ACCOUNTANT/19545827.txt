@@ -79,4 +79,4 @@ Receptionist, Retail Sales, Sales And, Shipping, Usda, Accounts Payable, Solutio
 Payroll, Payroll Processing, Software Training, Training, Accountant, The Accounts, Accounts Receivable, Credit, Billing, Csi, Excel, Ms Excel,
 Networking, All Sales, Basis, Cash Management, Forecasting, Gl, Telephone, Adjustments, Audit, Balance Sheet, Budgeting, Monthly Sales,
 Sales Tax, Annuities, Cpa, Life Insurance, Procedure Writing, Project Management, Public Relations, Team Building, Administrative Manager,
-Entrees, EntrÃ©es, Hr, Microsoft Office, Ms Office, Purchase Orders
+Entrees, Entrées, Hr, Microsoft Office, Ms Office, Purchase Orders

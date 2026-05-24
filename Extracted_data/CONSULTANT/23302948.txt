@@ -51,7 +51,7 @@ Conduct fluid flow and geochemical simulations of CO2 and municipal wastewater i
 Evaluate geomechanical effects of fluid injection into the Lawson formation.
 Reservoir Engineer
 January 2011 to November 2014 Company Name ï¼​ City , State
-02/2011â€” 09/2012 Investigator
+02/2011— 09/2012 Investigator
 Miscible and immiscible CO2 EOR pilots Fields: Mumford Hills (Clore sandstone) and Sugar Creek (Jackson sandstone). Operator: Gallagher
 Drilling Inc, Evansville Indiana
 Work diligently with geoscience and engineering staff to develop models that reflect geology and reservoir features.
@@ -61,7 +61,7 @@ Estimate reserves and forecast production using both analytical techniques and c
 
 --- Page 2 ---
 Evaluate the viability of different field development scenarios and new drilling locations.
-04/2012â€”12/2013 Key personnel
+04/2012—12/2013 Key personnel
 Development of dimensionless performance curves for three of the most prolific oil producing formations in the Illinois Basin (Aux Vases
 (sandstone), Cypress (sandstone), and Ste. Genevieve (carbonate))
 Fields: Clay City, Dale, Johnsonville, Iola, Lawrence, Mill Shoals, Olney, and Zeigler.
@@ -70,7 +70,7 @@ History-match reservoir models to field observations and data.
 Design 5-spot patterns of different sizes (20, 40, and 80 acres) for the eight oil fields.
 Conduct miscible and immiscible compositional simulations of continuous CO2 and water-alternate-CO2 injection
 Generate dimensionless curves from simulation results to evaluate EOR performance for each oil field.
-10/2012â€”09/2014 Principal Investigator
+10/2012—09/2014 Principal Investigator
 Depositional environment and storage efficiency Project
 Deopositional environments: shelf clastic, shelf carbonates, reef, deltaic, fluvial deltaic, fluvial & alluvial, turbidite, and strandplain.
 Define, plan, monitor, and modify project. Evaluate progress using MS Project. (www.CO2sinkefficiency.org)

@@ -20,7 +20,7 @@ Detail-oriented
 Product improvement
 Work History
 11/2012 to Current
-Engineering Technician Company Name â€“ City , State
+Engineering Technician Company Name – City , State
 Completed projects by effectively applying engineering, technical and maintenance procedures.
 Used precision test equipment such as oscilloscopes, multi-meters, waveform generators and spectrum analyzers.
 Followed verbal instructions and hand sketches to adapt and modify tooling.
@@ -28,7 +28,7 @@ Improved product quality by customizing tools and eliminating variability.
 Initiated contact with vendors and built solid working relationships with them.
 Followed up on manufacturing and field reports and resolved outstanding problems.
 01/2009 to 10/2012
-Quality Analyst/Document Control Specialist Company Name â€“ City , State
+Quality Analyst/Document Control Specialist Company Name – City , State
 Collaborated with engineers at the new product introduction phase to develop and verify design changes.
 Improved product quality by customizing tools and eliminating variability.
 Initiated contact with vendors and built solid working relationships with them.
@@ -37,7 +37,7 @@ Conducted engineering and detailed experimental tests to collect design data and
 Used precision test equipment such as oscilloscopes, multi-meters, waveform generators and spectrum analyzers.
 Implemented schematics, diagrams and written and verbal descriptions to effectively solve engineering project issues.
 11/2007 to 01/2009
-IT Associate Company Name â€“ City , State
+IT Associate Company Name – City , State
 Configure and test computer components on windows XP and Vista OS.
 Install patches and virus protection software.
 Migration of legacy system to latest technology.
@@ -47,7 +47,7 @@ Create, modify and execute test cases to qualify releases on multiple servers an
 Set up individual users with common resources i.e. network printers.
 Work closely with software, hardware engineers and QA team members to identify bugs, report and resolve technical issues.
 04/2003 to 11/2007
-Test Technician Company Name â€“ City , State
+Test Technician Company Name – City , State
 Unit test of individual components.
 Work closely with developers to investigate and resolve technical issues.
 Setup, Configure and execute system and performance tests.
@@ -57,7 +57,7 @@ Compiled data and generated graphs to interpret results and suggest key operatio
 Followed verbal instructions and hand sketches to adapt and modify tooling.
 Collaborated with engineers at the new product introduction phase to develop and verify design changes.
 02/2000 to 04/2003
-Computer/Network Instructor Company Name â€“ City , State
+Computer/Network Instructor Company Name – City , State
 Build computer networks (exp.
 Peer-to-peer, client server) Setup different types of network Protocols and their usage.
 
@@ -65,10 +65,10 @@ Peer-to-peer, client server) Setup different types of network Protocols and thei
 Configure, setup and troubleshoot computer networks and related problems.
 Maintain computers and components used in the classrooms.
 Prepare students for A+ examinations.
-Work with students on isolating computer problemsÂ by process of elimination.
-TroubleshootÂ complex system to component level.Â
+Work with students on isolating computer problems by process of elimination.
+Troubleshoot complex system to component level.Â
 01/1990 to 02/2000
-Network Systems QA Tester Company Name â€“ City , State
+Network Systems QA Tester Company Name – City , State
 Define and write system test plans used in the qualification and testing of HP's NetSever line of Products Configure, setup and install Server
 operating systems and clients OS.
 Developed test cases from marketing requirements and functional specification documents.
@@ -77,14 +77,14 @@ Conduct black box testing using manual and automated methods.
 Report problems in the bug tracking system and tracked them for resolution.
 Analyze problems to identify root cause and documented test status and results.
 Work closely with software and hardware engineers in the resolution of problems.
-Quality Assurance Technician Company Name â€“ City , State
+Quality Assurance Technician Company Name – City , State
 Implemented schematics, diagrams and written and verbal descriptions to effectively solve engineering project issues.
 Reformatted large datasets for use in technical applications.
 Compiled data and generated graphs to interpret results and suggest key operational improvements.
 Completed projects by effectively applying engineering, technical and maintenance procedures.
 Completed projects by effectively applying engineering, technical and maintenance procedures.
 Used precision test equipment such as oscilloscopes, multi-meters, waveform generators and spectrum analyzers.
-QA Tester Company Name â€“ City , State
+QA Tester Company Name – City , State
 Implemented schematics, diagrams and written and verbal descriptions to effectively solve engineering project issues.
 Reformatted large datasets for use in technical applications.
 Completed projects by effectively applying engineering, technical and maintenance procedures.

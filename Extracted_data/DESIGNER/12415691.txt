@@ -44,12 +44,12 @@ Designed smart skill matching algorithm that recommends employers with prospecti
 Developed SQL Queries for connecting to Database Tables and use the data to access user information in addition to adding information to
 tables
 Research Assistant
-Â This project was funded by CU Faculty Research Grant, joint work with Dr. Wayne Eby Â Â Â Â
-Assist professor in preparing and analyzing data; perform comparative analyses from former experimental data â€‹
-Mathematica was used to get the data Â Â Â Â
+ This project was funded by CU Faculty Research Grant, joint work with Dr. Wayne Eby    Â
+Assist professor in preparing and analyzing data; perform comparative analyses from former experimental data ​
+Mathematica was used to get the data    Â
 Banking system project
-Â Designed and implemented the project using C with the concept of OOP
-Used the â€œunp.hâ€​ library, came up with the client program and server program which run on two different systems and communicate
+ Designed and implemented the project using C with the concept of OOP
+Used the "unp.hâ€​ library, came up with the client program and server program which run on two different systems and communicate
 with one another via TCP socket
 Developed the interface on both sides and also showcasing the activities going on while the system is active
 Accountable for testing and debugging in Linux environment Accomplished the project within time constraint

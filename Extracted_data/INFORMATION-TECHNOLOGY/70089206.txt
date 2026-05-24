@@ -1,7 +1,7 @@
 --- Page 1 ---
 INFORMATION TECHNOLOGY SPECIALIST
 Summary
-Highly skilled and results-oriented IT specialistÂ with extensive experience in Software Development, Software Configuration Management,
+Highly skilled and results-oriented IT specialist with extensive experience in Software Development, Software Configuration Management,
 Project Management, System Planning & Specification Development, CMMI5, Quality Assurance and Testing.Â
 Highlights
 Process improvement Productivity improvement
@@ -48,7 +48,7 @@ Conducted program demonstrations with team members prior to the release of softw
 Performed extensive database testing, automated testing and data validation in support of the MAF/TIGER database's migration to Oracle.
 Developed database test scenarios and supporting software in Pro C and Oracle to validate the migration to the Oracle platform.
 Worked extensively in PL/SQL, SQL, Shell scripting in LINUX, JavaScript, SAS, and Visual Basic.
-Attended meetings with DivisionÂ managers Â to review project status and proposed changes.
+Attended meetings with Division managers  to review project status and proposed changes.
 Created status reports and posted to the GEO website for management review.
 Designed and maintained branch website.
 Â
@@ -58,7 +58,7 @@ July 1994 to August 1996 Company Name
 --- Page 2 ---
 Â
 Designed and developed electronic questionnaires, "instruments", for Computer Assisted Survey Information Collection (CASIC) activities.
-Led meetings withÂ subject matter staff to review project status and proposed changes.
+Led meetings with subject matter staff to review project status and proposed changes.
 Met with the subject matter staff and the sponsor on the details and development of the programming specifications, design and testing of
 the CAI.
 Delivered status reports to stakeholders for budgeting and planning purposes.

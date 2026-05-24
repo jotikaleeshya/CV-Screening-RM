@@ -8,11 +8,11 @@ Aware of Analog Layout fundamentals like Device
 matching, shielding, Isolation, ESD, Latchup, Antenna,
 Used post layout parasitic extraction tools
 EM, DFM
-Used Â Nucleus (TI internal tool for ESD and Latchup), SPIRE (TI
+Used  Nucleus (TI internal tool for ESD and Latchup), SPIRE (TI
 Physical verification layout using tools like K2Ver,
 internal tool for EMIR analysis), Voltrace (TI internal tool for High voltage
 Hercules, Caliber, Assura
-Â checks
+ checks
 Used auto routers tools like ICCT, Chip Assembly
 Used data management tools like Synchronicity and IC manageÂ
 router, Aprisa, VSR on various blocks to reduce manual

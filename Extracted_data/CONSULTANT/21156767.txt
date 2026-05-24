@@ -46,7 +46,7 @@ Create machine learning model to predict malignant tumors.
 Used Python - "Random Forest Classifier" to predict malignant tumors in breast tissue.
 Here, main idea is building multiple models with different sample and different initial variables from train data set.
 Goal is to determine what attributes provide the most information that can be used to predict malignancy.
-My model was tested against â€œtest data setâ€​ for accuracy and it is 96% successful in predicting whether the tumor is malignant or
+My model was tested against "test data setâ€​ for accuracy and it is 96% successful in predicting whether the tumor is malignant or
 benign.
 Data Mining- Image Classification:
 It is the process to categorize images into one of several categories. Classification requires training for each image category.

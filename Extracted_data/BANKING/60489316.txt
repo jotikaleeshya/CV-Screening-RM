@@ -5,7 +5,7 @@ Experienced Solution Architect and System z Mainframe Technology Evangelist with
 Banking & Financial Services and Government clients across ASEAN region. Proven record of constantly delivering high performance and result
 oriented professional with exceptional management and consultative selling skills. Demonstrated ability to work independently or as a team player
 in various projects.
-Fast Learner â€“ Good Analytical - Innovative - Goal-Oriented - Flexible
+Fast Learner – Good Analytical - Innovative - Goal-Oriented - Flexible
 Recent Accomplishments
 Over-achieving the ASEAN sales goals for IBM software every year by closing high values deals e.g. Core system modernization,
 integrations and new workload for banking and government clients and awarded the IBM Hundred Percent Achievement Club.
@@ -47,7 +47,7 @@ and provide support to banking customers in area of Deposit/ Trade Finance/ Trea
 06/2003 to 01/2007
 System Analyst Company Name ï¼​ City , State
 Responsible for developing and application design of new projects and maintenance of Core Banking system running on the mainframe system.
-Specialized in Core Payment Systems â€“ SWIFT, RENTAS, Interbank GIRO, and Inward and Outward Cheque Clearing. Implemented new
+Specialized in Core Payment Systems – SWIFT, RENTAS, Interbank GIRO, and Inward and Outward Cheque Clearing. Implemented new
 major projects include Foreign Bills Collection / Mobile Banking. Team lead for new Auto Payments System project. Worked on projects and
 service modification for both online and batch applications. Tasks involved were analysis, research, estimation, coding, testing and documentation
 with strict adherence to system standards.
@@ -67,7 +67,7 @@ Skills
 11 years of experience in System z and distributed applications development on z/OS, Programming languages : COBOL, PL/I, PL/SQL , EGL,
 Databases - DB2, Oracle, IDMS/ADSO, MQ and Enterprise Connectivity - ESB, Message Broker, Business rules and events, Business Process
 Management, Mobile and Cloud, Middleware - WAS, CICS
-Specialize in IBM software focusing on IBM Rational and WebSphere solutions â€“ RDz, RAA, RBD-EGL, RTCz, Quality Management and
+Specialize in IBM software focusing on IBM Rational and WebSphere solutions – RDz, RAA, RBD-EGL, RTCz, Quality Management and
 skilled in area of CICS Modernization , Web 2.0, SOA, Mobility, BPM, Business Rules Management
 Education and Training
 2003

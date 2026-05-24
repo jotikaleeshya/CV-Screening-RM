@@ -1,10 +1,10 @@
 --- Page 1 ---
 INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER)
 Summary
-Over 3 yearsÂ of experience serving as a key contributor across all software development life cycleÂ phases includingÂ analysis,
-architectural design, prototyping, development, and testing of applicationÂ using Java/J2EE technologies in various domains.
+Over 3 years of experience serving as a key contributor across all software development life cycle phases including analysis,
+architectural design, prototyping, development, and testing of application using Java/J2EE technologies in various domains.
 Very good understanding of Object Oriented Programming, Data Structure, Algorithms, Design Patterns and Distributed Systems.
-Excellent working experience in backendÂ development using different Spring modules like Spring Core ContainerÂ Module, AOP, MVC,
+Excellent working experience in backend development using different Spring modules like Spring Core Container Module, AOP, MVC,
 Security, Data, Transaction Management etc.
 Experienced in developing Microservices with Spring Boot, Spring REST, Spring Cloud, etc.
 Extensive experience in developing Web interfaces using HTML5, CSS3, Bootstrap, SASS, LESS, JavaScript, jQuery, AngularJS,
@@ -20,7 +20,7 @@ Excellent communication skills including formal presentations and technical docu
 Productive in both team-based and self-managed projects.
 Skills
 Programming Languages: Java/J2EE, JavaScript, Android, HTML, CSS, SQL, C, C
-Frameworks and Libraries: Spring, Restful-Web Services, Hibernate, AngularJS, ReactJS, jQuery, Bootstrap,Â Selenium WebDriver,
+Frameworks and Libraries: Spring, Restful-Web Services, Hibernate, AngularJS, ReactJS, jQuery, Bootstrap, Selenium WebDriver,
 Cucumber
 Databases: MySQL, PostgreSQL, Oracle, MongoDB, H2
 Build Tools: Gradle, Maven, Ant
@@ -33,10 +33,10 @@ IDE: Eclipse, IntelliJ, Android Studio
 Operating Systems: Linux, Windows
 Experience
 Information Technology Intern (Test Automation Engineer) 05/2017 to 08/2017 Company Name City , State
-Created nicely baked â€˜Test Automation Framework' to provide an execution environment for the automation test scripts. The framework
-allowed automated regression testing of â€˜WebTix', frontend/web interface that ExtremeTix's (Ticketing Solution Company) clients use to
+Created nicely baked 'Test Automation Framework' to provide an execution environment for the automation test scripts. The framework
+allowed automated regression testing of 'WebTix', frontend/web interface that ExtremeTix's (Ticketing Solution Company) clients use to
 access web services.
-Extensively used Selenium WebDriver and Spring Boot combined to write automation scripts for dynamic pages of â€˜WebTix' written on
+Extensively used Selenium WebDriver and Spring Boot combined to write automation scripts for dynamic pages of 'WebTix' written on
 AngularJS Framework. Modularized web components as Java objects following Page Object Model i.e created Object repository for all
 locators which can be easily automated.
 Leveraged the benefits of both data-driven and behavior-driven approaches and built the framework that is maintainable and reusable.

@@ -12,7 +12,7 @@ EIT License in process
 Experience
 05/2014 to 07/2016
 Engineering Manager Company Name ï¼​ City , State
-Â Lead and assigned the activities of the product engineering multidisciplinary team consisting in 5 people, during the EPC project of gas
+ Lead and assigned the activities of the product engineering multidisciplinary team consisting in 5 people, during the EPC project of gas
 treatment plant Cardon IV and other projects.
 Reviewed third party design drawings and MTOs. Tracked all material to be sent to Venezuela for Cardon IV.
 Served as Project Manager during proposal and beginning of fabrication of skid mounted pressure vessels for Parnaiba Brazil
@@ -43,7 +43,7 @@ Improved the reliability of Magnetic Flux leakage sensors by modifying PCBs usin
 01/2007 to 05/2010
 Electronics Designer Engineer /Manufacturing Engineer Company Name ï¼​ City , State
 Designed the PCBs of two mosquito control box and a solar powered electronic pesticide.
-Collaborated with software engineersÂ to specify the product , estimated material, build a prototype , testing and release it to production.
+Collaborated with software engineers to specify the product , estimated material, build a prototype , testing and release it to production.
 Troubleshoot and repaired PCB manufacturing in-house
 Prepared fabrication documentation for manufacturing (BOMs Schematics, procedures assembly operational and testing ).
 Served as Project Engineer in proposals for new project (analyzed system requirements, capacity, cost, and customer needs to determine
@@ -66,7 +66,7 @@ Developed of projects of remote control of testing instruments (Oscilloscope, Si
 acquisition cards from Nationals Instruments used by students to take real measurement while doing homework.
 Education
 2005
-Master of Science : Electronics Engineering Instituto TecnolÃ³gico de Monterrey campus Monterrey (ITESM) ï¼​ City , State , MÃ©xico
+Master of Science : Electronics Engineering Instituto Tecnológico de Monterrey campus Monterrey (ITESM) ï¼​ City , State , México
 2003
 Bachelor of Science : Electronics Engineering in Instrumentation and Control Instituto Tecnologico de Chihuahua ï¼​ City , State , Mexico
 Skills

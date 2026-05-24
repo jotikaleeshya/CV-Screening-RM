@@ -23,7 +23,7 @@ Work Experience
 Consultant , 02/2016 ï¼​ Current Company Name ï¼​ City , State
 Worked on solution design and setup of Inventory, Work in Process, QA, Purchasing & Order Management as per the client requirements
 and suggested business process changes.
-Implemented Oracle EDI for Sales Order entry,Â bookingÂ and acknowledgment for customer orders received through third party
+Implemented Oracle EDI for Sales Order entry, booking and acknowledgment for customer orders received through third party
 systems.Â
 Implemented Oracle E-Signatures and E-records to maintain Quality data books of every manufactured assembly, reducing gaps and saving
 costs.
@@ -32,7 +32,7 @@ Resolved functional issues related to Oracle Manufacturing and distribution duri
 Prepared training documents and assisted in user training in WIP, OM & PO modules.
 Worked on data conversion strategy from legacy systems to Oracle E-business suite R12.
 Consultant , 08/2013 ï¼​ 01/2016 Company Name ï¼​ City , State
-Implemented oracle supply chain modules for a major Oil & Gas manufacturing company in Australia, Canada,Â China, Romania and UK
+Implemented oracle supply chain modules for a major Oil & Gas manufacturing company in Australia, Canada, China, Romania and UK
 as part of their global roll out to Oracle.
 Simplified their overhaul and repair process by implementing a custom solution that reduces user's time on the system as well as resulting a
 more organized shop floor.

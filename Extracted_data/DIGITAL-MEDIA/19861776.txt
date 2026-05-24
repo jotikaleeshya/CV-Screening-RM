@@ -6,7 +6,7 @@ consumer." Transformation & Leadership-
 Skills
 Work History
 01/2009 to 01/2010
-VP Digital Media Services And Content Distribution Company Name â€“ City , State
+VP Digital Media Services And Content Distribution Company Name – City , State
 Led SaaS file based workflow post production, editing, packaging, distribution, and content servicing P&L for clients including Sony
 Pictures Entertainment, Paramount Pictures, Warner Bros., and Walt Disney Studios.
 Completed 800 Terabyte Infrastructure and workflow process design across encoding, transcoding, delivery platforms to facilitate library
@@ -14,7 +14,7 @@ migration to HD content.
 Facilitated customer content launches for sell thru platforms Apple Germany, Apple France, Xbox, Playstation Networks, Amazon, and
 other distribution channels including ATT Mobile and DirecTV.
 01/2008 to Current
-Independent Contractor Company Name â€“ City , State
+Independent Contractor Company Name – City , State
 Led The Walt Disney Interactive Media Group Technical Operations Shared Services Organization from internet startup to "Commercial
 Grade" Internet Infrastructure, Platform, and Engineering Services provider fueling 3X audience growth (85 million Unique visitors a month)
 and revenue from global product (Fantasy Games, Toontown MMRPG, Disney Broadband, ESPN Motion, Disney Stores, ), Mobile
@@ -42,7 +42,7 @@ Developed a speaker forum "Business Hack Japan" for the Japanese media community
 artists, and film production/distribution).
 Landed a contract with JETRO (Japan External Trade Org.) to publish paper on US Digital distribution landscape.
 01/2005 to 01/2007
-Senior Vice President/ Chief Information Officer Company Name â€“ City , State
+Senior Vice President/ Chief Information Officer Company Name – City , State
 Developed and led rich media product/technology strategy and support for the Online, Broadcast, Mobile, Publishing, DVD Distribution,
 and licensing business models including, content creation, content management, content distribution, billing systems architecture, business
 intelligence, and enterprise back office systems.
@@ -53,7 +53,7 @@ enterprise to enable ad supported lifestyle product offering, video subscription
 Integrated two business acquisitions into the corporate infrastructure in 6 months.
 Established consolidated hosting strategy and enterprise bandwidth agreements realizing 30% reduction in infrastructure costs.
 01/2002 to 01/2005
-Vice President Technical Operations Company Name â€“ City , State
+Vice President Technical Operations Company Name – City , State
 Built shared services organization supporting subscription based products, multi player gaming solutions, advertising business models, travel,
 and retail commerce for all Disney business verticals in the b to c online channel and Disney/ESPN Mobile MVNO services.
 Captained the design, implementation, and support infrastructure delivering 30+ billion page views per year and 85+ million unique visitors a
@@ -67,7 +67,7 @@ practices in change management, incident management, and configuration managemen
 Completed data center expansion efforts to accommodate 5 year growth projections of 100% increase in capacity for rich media products
 and content delivery for global product launches.
 01/2000 to 01/2002
-Vice President of Operations Company Name â€“ City , State
+Vice President of Operations Company Name – City , State
 Directed design and implementation of all business plans with scalable, operational support strategy (customer care, provisioning,
 purchasing, sales, back office) for this start-up company, providing fully managed web hosting and managed security services.
 Acquired and managed major accounts through top-level presentations with CXO's.
@@ -78,7 +78,7 @@ Completed multi-phased approach to sales automation and service management busin
 Market CRM suite resulting in end to end customer lifecycle tracking.
 Achieved service-level availability of 99.99% and reduced server build time from 2 days to 6 hours.
 01/1994 to 01/2000
-Director of E-Business Infrastructure/ Network Operations Manager/ Telecom Manager Company Name â€“ City , State
+Director of E-Business Infrastructure/ Network Operations Manager/ Telecom Manager Company Name – City , State
 Developed and implemented strategic plans and nationwide tactical support strategy with service-level management for all desktop
 applications, data and voice networks, call center infrastructure including ICR/VRU, inbound/outbound predictive dialing, and PBX/ACD.
 Managed a $26 million budget within 4% of plan across an internal customer base of 20,000 associates supporting over 22 million external
@@ -97,7 +97,7 @@ Co-led an operational imperative to build a standardized project management offi
 and tracking of every project Achieved availability metrics of 99.99% through intelligent inbound/outbound predictive call routing
 infrastructure supporting over 110 million calls annually, reaching payback in 10 months and improving right party contacts by over 25%.
 01/1990 to 01/1994
-Manager of MIS Company Name â€“ City , State
+Manager of MIS Company Name – City , State
 Education
 1998
 MBA :

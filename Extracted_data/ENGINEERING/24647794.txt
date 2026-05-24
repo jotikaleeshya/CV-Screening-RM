@@ -27,9 +27,9 @@ Analyzer.
 The program was written using Code Composer studio and the UI was developed in Visual Basics Used the Software development
 lifecycle to develop the software of the system.
 Built the UI using Visual Basics.NET.
-Guitar Tuner Digital Signal Processing Spring 2013 Â· Engineered a guitar tuner implemented by programming a C6713 DSK board.
+Guitar Tuner Digital Signal Processing Spring 2013 · Engineered a guitar tuner implemented by programming a C6713 DSK board.
 Designed analog filters and digital filters to remove noise in an audio file using algorithms developed with Matlab and Simulink.
-Laser Project Computer Systems Spring 2013 Â· Created a compact computer system that controls and animates letters on a wall.
+Laser Project Computer Systems Spring 2013 · Created a compact computer system that controls and animates letters on a wall.
 Implemented the hardware schematics developed in assembly language on a MC68HC11 microprocessor.
 Acquired much experience in troubleshooting the system using a logic analyzer and oscilloscope.
 Professional Experience

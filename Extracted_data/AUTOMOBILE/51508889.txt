@@ -200,7 +200,7 @@ Contact, Preferences, Owner-Owner relationship, Owner-Account relationship, Owne
 the analysis, design, development and testing of the Owner Hub application and provide support for user acceptance testing and deployment of the
 application. Ability to allow field representatives to send requests to add or update existing Professionals in the system.
 Activities Performed:
-Co-ordination with Onsite â€“ offshore teams.
+Co-ordination with Onsite – offshore teams.
 Based on Design specifications, developed Struts framework based application to achieve business requirements.
 Configured Weblogic App Server for design time and run time application.
 Implemented Classification Module in Development region.

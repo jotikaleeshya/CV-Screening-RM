@@ -41,7 +41,7 @@ Web site
 Written
 Work History
 Software Developer , 12/2015 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Project was tasked to design an Internal Marketing System using c#,SQL, HTML,.net, devexpress.
 Amazon,Walmart,eBay and Shopify.
 API's were integrated.
@@ -54,12 +54,12 @@ Revised, modularized and updated old code bases to modern development standards.
 Authored code fixes and enhancements for inclusion in future code releases and patches.
 The successful launch of these applications enabled company growth of 30%.
 Computer Engineer Intern , 06/2013 to 09/2013
-Company Name â€“ City
+Company Name – City
 Tested the User Interface for Web site and provided feedback to increase user satisfaction, reduce reaction time and improve site
 mappings.
 Executed Performance testing on internal applications, documented results and maintained logs.
 Computer Engineer Intern , 06/2012 to 09/2012
-Company Name â€“ City
+Company Name – City
 Our team has created an application for Turkish Patent and Trademark Office using MatLab, C#, SQL and HTML.
 My responsibilities within that team was:.
 Developed the FAQ and Support part of the web site.
@@ -91,7 +91,7 @@ Selcuk University - City
 Master of Science State
 Work History
 Software Developer , 12/2015 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Project was tasked to design an Internal Marketing System using c#,SQL, HTML,.net, devexpress.
 Amazon,Walmart,eBay and Shopify.
 API's were integrated.
@@ -104,12 +104,12 @@ Revised, modularized and updated old code bases to modern development standards.
 Authored code fixes and enhancements for inclusion in future code releases and patches.
 The successful launch of these applications enabled company growth of 30%.
 Computer Engineer Intern , 06/2013 to 09/2013
-Company Name â€“ City
+Company Name – City
 Tested the User Interface for Web site and provided feedback to increase user satisfaction, reduce reaction time and improve site
 mappings.
 Executed Performance testing on internal applications, documented results and maintained logs.
 Computer Engineer Intern , 06/2012 to 09/2012
-Company Name â€“ City
+Company Name – City
 Our team has created an application for Turkish Patent and Trademark Office using MatLab, C#, SQL and HTML.
 My responsibilities within that team was:.
 Developed the FAQ and Support part of the web site.

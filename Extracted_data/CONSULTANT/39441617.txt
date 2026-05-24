@@ -91,8 +91,8 @@ Master of Science : Computer Science 2016 Georgia Institute of Technology City ,
 Bachelor of Science : Information Technology 2014 Strayer University City , State GPA: Summa cum Laude
 Concentration in Security
 Graduated Summa Cum Laude
-ITIL v3 Foundation Â· Security+ Â· Microsoft Certified Professional (MCP) Â· Master Certified Novell Engineer-Security Cisco Certified
-Network Associate Â· Cisco Certified Design Associate Member : Information Technology Project Management Institute Information Technology
+ITIL v3 Foundation · Security+ · Microsoft Certified Professional (MCP) · Master Certified Novell Engineer-Security Cisco Certified
+Network Associate · Cisco Certified Design Associate Member : Information Technology Project Management Institute Information Technology
 Skills
 accounting, Active Directory, AD, Architect, Borland, Budgeting, business development, business management, Business Startup, C, C++, Cisco
 Certified Network Associate, Certified Novell Engineer, CISCO, Cisco Certified, Cisco routers, Citrix, client/server, computer networking,

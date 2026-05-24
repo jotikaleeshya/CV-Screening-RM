@@ -22,7 +22,7 @@ with exploring and developing new opportunities at the intersection of Healthcar
 and agile practices to focus on the businesses major pain points. Â
 My role on the team is that of a hands-on Platform / Solution / Application Architect where I regularly explore and evaluate new technologies,
 design solutions and develop proof of concepts (POCs). Â
-Led and collaborated with enterprise solution delivery teams in all phases â€“ from ideation to iterative delivery
+Led and collaborated with enterprise solution delivery teams in all phases – from ideation to iterative delivery
 Collaborated in design and development of an API platform enabling delivery teams to rapidly exchange data with external EMRs
 (Electronic Medical Records) as well as internal line of business applications
 Provided guidance on current technology landscape and advised management on purchasing third party products and engaging external

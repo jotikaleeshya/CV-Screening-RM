@@ -9,7 +9,7 @@ and validation, planning, QA, configuration management, agile scrum master and p
 Qualifications
 Product, system and software testing across multiple OS
 platforms (Windows, Windows Store, Android, iOS,
-Arduino & Linux) over full product life cycle, including â€¢Scrum master for multiple concurrent scrum teams. Facilitate and
+Arduino & Linux) over full product life cycle, including •Scrum master for multiple concurrent scrum teams. Facilitate and
 Agile, V-model and Waterfall development methods organize all scrum ceremonies including the daily stand-up, retrospectives,
 Managing multiple on-going projects with geographically demos, release planning and backlog grooming meetings. Support the
 dispersed teams, establishing and using sub-contract scrum team member to mitigate impediments, resolve conflict.

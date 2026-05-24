@@ -9,27 +9,27 @@ Flight test management Systems integration and test
 UAS operations Aircraft modification management
 Flight test engineering Team leadership
 Accomplishments
-â€¢NASA Exceptional Service Medal, 2011
-â€¢Developed initial Operational Concept for the Global
+•NASA Exceptional Service Medal, 2011
+•Developed initial Operational Concept for the Global
 Hawk UAS for NASA operations and generated testing
 roadmap to achieve successful initial operational capability of the
 NASA Global Hawk UAS
-â€¢Developed syllabus and training materials for NASA Global Hawk Mission directors and UAS ground observers.
-â€¢Led the NASA effort (in concert with Northrop Grumman
+•Developed syllabus and training materials for NASA Global Hawk Mission directors and UAS ground observers.
+•Led the NASA effort (in concert with Northrop Grumman
 Corporation and L-3 Communications engineers) to resolve unexpected developmental problems that surfaced during testing and qualification of
 the Global Hawk command and control system and field a fully functional system.
-â€¢Generated requirements for workmanship, functional test and
+•Generated requirements for workmanship, functional test and
 environmental test for Science payloads planned for installation on the Global Hawk.
-â€¢NASA Dryden Directors Safety Award, 2000
-â€¢Appointed to NASA "Tiger Teamâ€​ to fully develop, reclassify and
+•NASA Dryden Directors Safety Award, 2000
+•Appointed to NASA "Tiger Teamâ€​ to fully develop, reclassify and
 cause-map X-40A Space Maneuver Vehicle hazards in response to deficiencies uncovered during Flight Readiness Review.
-â€¢U.S. Army Commanders Award for Civilian Service, 1996
-â€¢Managed a complex engine-airframe integration test program with an integrated test team of Army, airframe contractor and engine contractor
+•U.S. Army Commanders Award for Civilian Service, 1996
+•Managed a complex engine-airframe integration test program with an integrated test team of Army, airframe contractor and engine contractor
 personnel.
-â€¢Developed new flight test techniques to determine compliance
+•Developed new flight test techniques to determine compliance
 with a new frequency-domain based handling qualities specification.
-â€¢Developed methods of assessing aircraft specification compliance using an engineering flight simulator.
-â€¢US Army Commanders Award for General Excellence, 1987.
+•Developed methods of assessing aircraft specification compliance using an engineering flight simulator.
+•US Army Commanders Award for General Excellence, 1987.
 Professional Experience
 06/2006 to 01/2015
 Lead Operations Engineer - Global Hawk Project Company Name ï¼​ City , State
@@ -45,7 +45,7 @@ Served as primary functional interface between payload specialists and Global Ha
 Assisted Global Hawk pilot in air vehicle systems operation.
 Performed as Mission Director on more than 150 Global Hawk missions.
 Â
-Lead Operations Engineer for Aeronautics Mission Directorate: Supervised eight Operations Engineers â€“ directed assignments, work
+Lead Operations Engineer for Aeronautics Mission Directorate: Supervised eight Operations Engineers – directed assignments, work
 prioritization, generated performance appraisals
 01/1997 to 06/2006
 Operations Engineer Company Name ï¼​ City , State

@@ -19,7 +19,7 @@ PhD Candidate in Finance 08/2010 to Current Company Name City , State
 Conduct research in Finance, specifically asset pricing and econometric modeling. Current work includes: 1) Do tax revenues Reduce Agency
 Costs and Increase Hospital Efficiency? Empirical Evidence from Washington State - conducted using Maximum Entropy Econometrics, 2) Return
 Distributions under GARCH Process with Sentiment Measures 3) Market Sentiment and its Effects on Stock Returns 4) A State-Space Model for
-Investor Sentiment and 5) Herding in Option Pricing Models â€“ A State Space Approach.
+Investor Sentiment and 5) Herding in Option Pricing Models – A State Space Approach.
 Visiting Instructor in Finance 09/2013 to 08/2014 Company Name City , State
 Taught MBA and Undergraduate Classes in Investments, Financial Markets and Institutions, Bank Financial Management, Introduction to
 Financial Management
@@ -47,11 +47,11 @@ IL, March 2014
 
 --- Page 2 ---
 5) Namjoshi Shantanu, A State-Space Model for Investor Sentiment, In Progress
-6) Namjoshi Shantanu, Herding in Option Pricing Models â€“ A State Space Approach, In Progress
+6) Namjoshi Shantanu, Herding in Option Pricing Models – A State Space Approach, In Progress
 7) K.S. Raja, S. A. Namjoshi, and M. Misra, Improved Corrosion Resistance of Ni-22Cr-13Mo-4W Alloy by Surface Nanocrystallization
 Materials Letters, 59 (2005) 570-574.
 8) S. Mall, S.A. Namjoshi, and W.J. Porter, Effects of Microstructure on Fretting Fatigue Crack Initiation Behavior of Ti-6Al-4V, Materials
-Science and Engineering A 383 (2004) 334â€“340
+Science and Engineering A 383 (2004) 334–340
 9) Namjoshi S. & Mall S., Fretting behavior of Ti-6Al-4V under combined high cycle and low cycle fatigue loading, The International Journal of
 Fatigue 23 (2001) S455-S461.
 10) Namjoshi S.A., Thadhani N.N., Modeling The Reaction Synthesis Of Shock-Densified Titanium-Silicon Powder Mixture Compacts,
@@ -62,7 +62,7 @@ Accomplishments
 Academic Advisor:
 Graduated: 1 PhD. student (2005), 1 M.S. student (2004)
 Patents:
-- J. C. Lacombe, K. S. Raja, S. A. Namjoshi, M. Misra et al., â€œMethods for Fabrication of Porous Metal Templates and Growth of Carbon
+- J. C. Lacombe, K. S. Raja, S. A. Namjoshi, M. Misra et al., "Methods for Fabrication of Porous Metal Templates and Growth of Carbon
 Nanotubes and Utilization Thereof,â€​ US 20050276743 A1
-- K. Paramguru, K. S. Raja, S. A. Namjoshi, M. Misra, â€œMethod of Forming Nanoporous Surfaces and Coating Bioceramic on the
+- K. Paramguru, K. S. Raja, S. A. Namjoshi, M. Misra, "Method of Forming Nanoporous Surfaces and Coating Bioceramic on the
 Nanoporous Surfaces,â€​ patent application pending, May 2004.

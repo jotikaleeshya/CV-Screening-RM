@@ -2,7 +2,7 @@
 MAINTENANCE ENGINEERING CO-OP
 Experience
 Maintenance Engineering Co-Op , 01/2019 to 11/2019
-Company Name â€“ City , State
+Company Name – City , State
 Functioned as facility Computerized Maintenance Management System (CMMS) technical expert, and liaison to Global IT and Maximo
 Support team.
 Managed Maximo workflows, assisted in identification and resolving Maximo 7.6 related issues.
@@ -31,14 +31,14 @@ Registered data for processes such as Failure Modes and Effects Analysis (FMEA) 
 Assisted Continuous Improvement team in reviewing and refining processes to make additional improvements.
 Generated In-depth Root Cause Analysis reports in relation to problems and errors reported by customers.
 Manufacturing Intern , 01/2015 to 02/2015
-Company Name â€“ City
+Company Name – City
 Utilised GD&T and Unigraphics NX to identify and fix measurement and design errors.
 Analysed models using ANSYS.
 Implemented Lean Manufacturing and reduced waste by 5%.
 Perform geometric and algebraic calculations on CNC machines.
 Work History
 Maintenance Engineering Co-Op , 01/2019 to 11/2019
-Company Name â€“ City , State
+Company Name – City , State
 Functioned as facility Computerized Maintenance Management System (CMMS) technical expert, and liaison to Global IT and Maximo
 Support team.
 Managed Maximo workflows, assisted in identification and resolving Maximo 7.6 related issues.
@@ -65,7 +65,7 @@ Registered data for processes such as Failure Modes and Effects Analysis (FMEA) 
 Assisted Continuous Improvement team in reviewing and refining processes to make additional improvements.
 Generated In-depth Root Cause Analysis reports in relation to problems and errors reported by customers.
 Manufacturing Intern , 01/2015 to 02/2015
-Company Name â€“ City
+Company Name – City
 Utilised GD&T and Unigraphics NX to identify and fix measurement and design errors.
 Analysed models using ANSYS.
 Implemented Lean Manufacturing and reduced waste by 5%.

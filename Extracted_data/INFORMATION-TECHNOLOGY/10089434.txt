@@ -43,7 +43,7 @@ Collaborating on Disaster Recovery plan and procedures.
 Researching, evaluating, and recommending new hardware and new software.
 Communicating and defining systems design and requirements for new and existing systems and applications.
 Researching, evaluating, recommending, testing, and implementing third party software/utilities.
-Planning and designing network infrastructure changes â€“ adding/removing servers, appliances, network logical flow.
+Planning and designing network infrastructure changes – adding/removing servers, appliances, network logical flow.
 Reviewing, evaluating, and analyzing existing system and application viability with management and staff.
 Administering and maintaining shares on the file servers.
 Reviewing server logs to troubleshoot issues.
@@ -95,7 +95,7 @@ Installing, configuring, and supporting Microsoft Windows Server 2000 and 2003, 
 Microsoft Office XP, 2003, and 2007.
 Education
 Bachelor of Science , Information Technology 2005 Florida International Univeristy ï¼​ City , State , United States
-Coursework in Programming, Web Administration, Network Administration, Database Administration, and Systems Administration â€“
+Coursework in Programming, Web Administration, Network Administration, Database Administration, and Systems Administration –
 Linux
 Programming Languages: C++, Java, JSP, HTML, CSS, VB.Net, Bash, T-SQL
 Certifications

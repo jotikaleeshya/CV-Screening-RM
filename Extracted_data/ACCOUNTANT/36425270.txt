@@ -1,7 +1,7 @@
 --- Page 1 ---
 ACCOUNTANT II
 Professional Summary
-Â Highly analytical, results-driven tax accounting specialist who works quickly and accurately under tight deadlines. Extensive knowledge of
+ Highly analytical, results-driven tax accounting specialist who works quickly and accurately under tight deadlines. Extensive knowledge of
 [Software program] .
 Skills
 Account reconciliation specialist
@@ -13,7 +13,7 @@ MS Office Suite
 Budget analysis
 Work History
 Accountant II , 09/2013 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Individually responsible for creating Standard Operating Procedure manual for Accounting department which is currently being used by the
 employees, new hires, executives and internal as well as external auditors.
 Solely responsible for creating and maintaining a monthly Statistical report that is generated through various banking transaction types, such
@@ -30,7 +30,7 @@ making necessary journal entries to record the recoveries in the books.
 Responsible for recurring journal entries.
 Responsible for maintaining accounting records and reports to ensure compliance using current GAAP principals and company policies.
 Human Resources and Compliance Assistant , 09/2011 to 08/2013
-Company Name â€“ City , State
+Company Name – City , State
 Assisted HR Generalist in structuring and implementing new procedures and policies for benefits, incentives and new hires.
 Maintained HR files and personnel files for 110 employees.
 Assisted HR Generalist in new hire orientation.
@@ -45,7 +45,7 @@ regulatory reports.
 Track, record, and audit member accounts for money laundering or other suspicious account activities through use of Verafin automated
 anti-money laundering software.
 Accounting Assistant , 10/2010 to 08/2013
-Company Name â€“ City , State
+Company Name – City , State
 Responsible for entering approved bills into accounting system and processing checks, Automated Clearing House (ACH) and Electronic
 Funds Transfer (EFT) to make payments.
 Responsible for maintaining vendors' and accounts payable records including 1099's and W-9's.

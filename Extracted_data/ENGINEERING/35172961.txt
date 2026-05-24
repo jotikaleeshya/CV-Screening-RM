@@ -39,7 +39,7 @@ competing UTB-SOI technology Simulated cross-sectional influences on the charact
 Study on Internal Stress in SU-8 Photoresist Cantilever Structure" ME561 "Thin Films" final project Calculate the value of the residual
 stress in SU-8 Photoresist due to the difference of coefficient of thermal expansion (CTE) mismatch between film and substrate Optimized
 process recipes (PEB temperature/duration) to reduce photoresist cracking/delamination/buckling due to residue stress Tool Proficiency
-Photolithography: mask writer (Heidelberg ÂµPG 101), Aligner (Karl Suss MA6, ABM, & EVG 620), Spin coater (SCS SCS 6800
+Photolithography: mask writer (Heidelberg µPG 101), Aligner (Karl Suss MA6, ABM, & EVG 620), Spin coater (SCS SCS 6800
 series, & Headway PWM32), HMDS oven (Yield Engineering Systems), wet bench Dry Etch: RIE (Trion Phantom RIE & Advanced
 Vacuum Vision RIE), Deep RIE (STS Multiplex & Oxford Instruments Plasmalab 100 ICP-380) PVD: Sputter (Kurt J.
 Lesker Lab 18, & Denton Desk V), e-beam evaporator, thermal evaporator Metrology: SEM (FEI Sirion & JEOL JSM-7400F), Optical

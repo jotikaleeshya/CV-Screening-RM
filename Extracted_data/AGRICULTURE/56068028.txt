@@ -21,13 +21,13 @@ across multiple units
 Developed and maintained standardized audit programs to assess the policies and procedures governing corporate security, email and
 Internet usage, access control, and incident response
 Planned, supervised and coached IT auditors assigned on audits; develop and managed security awareness and training initiatives to
-promote the success of company-wide IT complianceÂ Â Â Â Â Â Â Â
+promote the success of company-wide IT compliance       Â
 Developed and enhanced the corporate information security management framework based on COBIT
 Prepared and delivered recommendations enforcing cyber security best practices alongside executive management including CIO and CFO;
 presented security concepts, technologies, and risk mitigations to the business groups
 Identified on-board/off-board gap impacting Access Management, resolved by updating organizational procedure shortfalls
 Advised the development and implementation of Business Continuity and Disaster Recovery (BCP&DRP) Plans for 2 corporate R&D, 4
-manufacture, and 1 commercial site Â Â
+manufacture, and 1 commercial site  Â
 Recruited and led 3 security contractors build the risk assessment team charged with analyzing critical infrastructure, developing reports to
 document system vulnerabilities, and recommending appropriate solutions
 Managed and executed a proactive continuous risk assessment process focusing on emerging risk throughout the corporation

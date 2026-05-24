@@ -8,26 +8,26 @@ Certifications
 CCT Data Center, CCNP, CCNA, MCSE, Security +, Network +, A+
 Skills
 Routers: Cisco 17XX, 18XX, 26XX, 28XX, 37XX, 38XX, 39XX &72XXÂ series & ASR 1K & 9K SeriesÂ
-Switches: Cisco 3550, 3750, 45XX, 65XX series, Nexus Â 5K, 2K, 7K, 9K
+Switches: Cisco 3550, 3750, 45XX, 65XX series, Nexus  5K, 2K, 7K, 9K
 Load Balancer: Cisco CSS, F5Â NetworksÂ
-WAN Optimization: Cisco WAAS, PPP MultilinkÂ Routing: OSPF, EIGRP, BGP, RIP-2, PBR, Route Filtering, Redistribution,Â Summarization,
+WAN Optimization: Cisco WAAS, PPP Multilink Routing: OSPF, EIGRP, BGP, RIP-2, PBR, Route Filtering, Redistribution, Summarization,
 Static Routing.Â
 Switching: VLAN, VTP, STP, PVST+, RPVST+, Inter VLAN routing &Multi-Â Layer Switching, Multicast operations, Layer 3 Switches, Ether
 channels, Transparent BridgingÂ
-LAN: Ethernet, Fast Ethernet, Gigabit Ethernet, FDDI, CDDI, TokenÂ Ring, ATM LAN EmulationÂ
-WAN: Leased lines 64k - 155Mb (PPP / HDLC), channelized linksÂ (E1/T1/E3/T3), Fiber Optic Circuits, Frame Relay, ISDN, and Load
+LAN: Ethernet, Fast Ethernet, Gigabit Ethernet, FDDI, CDDI, Token Ring, ATM LAN EmulationÂ
+WAN: Leased lines 64k - 155Mb (PPP / HDLC), channelized links (E1/T1/E3/T3), Fiber Optic Circuits, Frame Relay, ISDN, and Load
 Balancing.Â
-Various Features & Services: IOS and Features, HSRP, GLBP, IRDP, NAT, SNMP, SYSLOG,Â NTP, DHCP, CDP, DNS, TFTP and FTP
+Various Features & Services: IOS and Features, HSRP, GLBP, IRDP, NAT, SNMP, SYSLOG, NTP, DHCP, CDP, DNS, TFTP and FTP
 Management.Â
 IP Telephony: IP Telephony utilizing Cisco routers, FXO/FXS/E&M/T1/ISDN/Â PRI, Call manager (publisher & subscriber)Â AAA
 Architecture: TACACS+, RADIUS, Cisco ACS.Â
 Security / Firewalls: Cisco ASA Firewalls 55XX, IPSEC & SSL VPNs, IPS/IDS, DMZÂ Setup, CBAC, Cisco NAC, ACL, IOS Firewall
 features, IOS Setup & Security FeaturesÂ
-Juniper: EX 2200, EX 4200, EX 4500, MX-480, M Series, SRX210,Â SRX240
+Juniper: EX 2200, EX 4200, EX 4500, MX-480, M Series, SRX210, SRX240
 VPN: Remote VPN & Site to Site VPN, DMVPN
-Wireless Site assessment using AirMagnet & Ekahua Adaptors.â€‹
+Wireless Site assessment using AirMagnet & Ekahua Adaptors.​
 Installation, configuration and maintenance of Palo Alto Firewalls.Â
-â€‹
+​
 Work Experience
 Sr. Network Engineer Sep 2014 to Jul 2017
 Company Name ï¼​ City , State

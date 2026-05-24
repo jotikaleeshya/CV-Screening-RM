@@ -25,7 +25,7 @@ Develop custom subscription management centers to support global business requir
 Build custom Insight reports to perform greater analysis of Eloqua data
 Develop automation testing efforts for Eloqua, Salesforce, and other integrated technology platforms
 Design and build complex programs and solutions within Program Builder for managing data cleansing, contact duplication, API data
-imports, lead routing systems, lead scoring programs,Â and subscription management
+imports, lead routing systems, lead scoring programs, and subscription management
 Define and implement QA Processes, procedures, workflows, and develop documentation for internal sharing
 Build complex multi-step campaigns and marketing assets including: Custom Data Objects, dynamic content, emails, and segmentation
 Develop testing strategy for continuous improvement and optimization
@@ -51,7 +51,7 @@ Responsibilities include:
 Develop programs focused on community outreach, parent and member communications, student registrations, member recruitment, training
 events, and staff/facility management
 Areas of project management include: budgeting, scheduling, vendor and venue due diligence, contract negotiations, catering selection,and
-entertainment and dÃ©cor
+entertainment and décor
 Responsible for contracts management and driving membership, including account renewals and program sales; Increased year over year
 membership contracts by 30%
 Support accounting department where responsibilities include monthly invoicing, updating account receivables in billing system, and expense
@@ -68,12 +68,12 @@ Expert speaker for Eloqua University Education sessions during Modern Marketing 
 Fourth Princess titleholder in the 2014 Miss Chinatown U.S.A. Pageant
 Achieved Black Sash ranking in Shaolin Kung Fu by recommendation of the Yee's Martial Arts Examining Committee, 2010
 Skills
-AdvancedÂ Eloqua product knowledge and experience
-Strong working knowledge inÂ Salesforce.comÂ implementation
-In depth knowledge in project planning and leading marketing automation teams and projectsÂ from ground zero
-Expertise inÂ developing guidelines, best practices, and training in automation tools
-VeryÂ strong in managing system integration projectsÂ with third party vendors
-Instrumental inÂ managing multiple projectsÂ simultaneously
+Advanced Eloqua product knowledge and experience
+Strong working knowledge in Salesforce.com implementation
+In depth knowledge in project planning and leading marketing automation teams and projects from ground zero
+Expertise in developing guidelines, best practices, and training in automation tools
+Very strong in managing system integration projects with third party vendors
+Instrumental in managing multiple projects simultaneously
 Excellent communication, analytical, and problem solving skills with proven ability to interact well with end users, peers, and senior
 management
 Affinity for logic and working independently; Proactive, self-sufficient, and self-motivated

@@ -8,7 +8,7 @@ Microsoft Server 2003, 2008, 2012 Help Desk
 Exchange Server 2007, 2010 ITIL Service Catalog
 VMware ESXi Vendor Management
 VMware vCenter Budgeting
-VMware Horizon ViewÂ 5.x, 6.x, and 7.x Project Management
+VMware Horizon View 5.x, 6.x, and 7.x Project Management
 Microsoft Hyper-V SLA Management
 Cisco UCM and Unity Asset Management
 Professional Experience
@@ -42,14 +42,14 @@ ITIL Foundation Certified
 Microsoft Certified Professional - Server 2012
 Core Accomplishments
 Leadership Skills:
-Led committee to successfully changeÂ our organization's dealership management system (DMS).Â The DMS is similar to an ERP system
+Led committee to successfully change our organization's dealership management system (DMS). The DMS is similar to an ERP system
 for auto dealerships
 Charged with maintaining compliance and security for customer data. Successfully manage data sharing relationships with more than ten third
 party vendors. Worked closely with DMS provider to develop an acceptable secure data sharing platform.
 
 --- Page 2 ---
 Project Management:
-Currently managing the conversion of the dealership to a newÂ dealership management system.Â Created and ran sub-committees,
+Currently managing the conversion of the dealership to a new dealership management system. Created and ran sub-committees,
 mapped out and executed the conversion plan, responsible for many key process changes and workflowsÂ
 Served as project manager for project creating a paperless work flow and digital storage process which resulted in 50% reduction of
 administrative processing time, $30,000/year reduction in costs, while increasing document availability and storage accuracy.

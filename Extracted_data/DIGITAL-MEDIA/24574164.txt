@@ -9,13 +9,13 @@ ranging impact over who makes money in this ecosystem, and how. Planning and bui
 Qualifications
 Strong analytical skills
 Customer Needs and Requirements Management
-Excellent problem solvingÂ skills
+Excellent problem solving skills
 Shipping quality software on time
 Knowledge of streaming video platforms
 Work Experience
 Senior Director, Product Management Aug 2013 to Current
 Company Name ï¼​ City , State
-ReverbNation is the leading online platform for independent musicians, where emergingÂ Artists build their careers through online marketing tools
+ReverbNation is the leading online platform for independent musicians, where emerging Artists build their careers through online marketing tools
 and industry opportunities.
 Led team of product managers, designers, and QA testers Â
 Managed, designed, and released first-ever mobile responsive version of the productÂ
@@ -80,13 +80,13 @@ Company Name ï¼​ City , State
 Viewpoint created digital marketing technologies, including a rich media ad server used advertisers and agencies worldwide. The company was
 acquired by DG Fast Channel in 2008.
 As Product Director, I was responsible for defining product direction and positioning, writing specifications, setting development priorities, and
-leading the development teams.Â Also under my purview were training, support, and documentation.
+leading the development teams. Also under my purview were training, support, and documentation.
 Brought to market Viewpoint's first commercial software product, a SaaS platform for rich media advertising development and deployment.
 Created standard ad format templates and operationalized building, testing, and deploying ads.
 Managed a team of more than 20 product managers, designers, developers, QA engineers, and technical writers.
 Successfully integrated the Unicast team and products, delivering a new combined product within months of the acquisition.
 Evaluated and selected third party vendors for ad serving redundancy and scalability.
-Migrated development from a Ã’waterfallÃ“ process that delivered one release every nine months to an agile process using Scrum, releasing
+Migrated development from a ÒwaterfallÓ process that delivered one release every nine months to an agile process using Scrum, releasing
 three significant updates within the first five months.
 Built a support escalation process to address internal support needs in addition to client SLAs.
 Maintained technical and business relationships with key partners, including AOL, Adobe, and DoubleClick.

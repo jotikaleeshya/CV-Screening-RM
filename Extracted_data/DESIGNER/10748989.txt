@@ -17,7 +17,7 @@ Working drawings and procedures 3D rendering software
 Space planning methodology Proficient in SketchUp
 Work History
 Lighting Designer 12/2013 to 11/2014
-Company Name â€“ City , State
+Company Name – City , State
 Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.
 Specified proper products and materials for each project.
 Carefully reviewed contractor submittals of finish materials.
@@ -25,7 +25,7 @@ Specified proper products and materials for each project.
 Prepared construction documents and details to implement design concepts.
 Originated and developed creative design concepts.
 Architectural and Electrical Design/Drafter 03/2008 to 12/2013
-Company Name â€“ City , State
+Company Name – City , State
 Architectural and Electrical Design/Drafting.
 Successfully resolved complex technical design issues.
 Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.
@@ -34,7 +34,7 @@ Specified proper products and materials for each project.
 Originated and developed creative design concepts.
 Prepared construction documents and details to implement design concepts.
 Architecture Intern 05/2007 to 02/2008
-Company Name â€“ City , State
+Company Name – City , State
 Consulted with clients to determine architectural preference to meet overall design goals.
 Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.
 Carefully reviewed contractor submittals of finish materials.
@@ -43,7 +43,7 @@ Facilitated requests regarding product information, installation methods and pro
 Originated and developed creative design concepts.
 Prepared construction documents and details to implement design concepts.
 Senior Electro-Mechanical Designer & CEO 01/1990 to 01/2005
-Company Name â€“ City , State
+Company Name – City , State
 Raytheon E-Systems.
 Motorola.
 Cadence.
@@ -58,14 +58,14 @@ Prepared construction documents and details to implement design concepts.
 Senior Electro-Mechanical Designer 02/1986 to 11/1989
 
 --- Page 2 ---
-Company Name â€“ City , State
+Company Name – City , State
 Successfullyresolved complex technical design issues.
 Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.
 Specified proper products and materials for each project.
 Originated and developed creative design concepts.
 Prepared construction documents and details to implement design concepts.
 Design/Drafter 05/1980 to 01/1986
-Company Name â€“ City , State
+Company Name – City , State
 Consulted with clients to determine architectural preference to meet overall design goals.
 Successfully resolved complex technical design issues.
 Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.
@@ -84,8 +84,8 @@ sustainable design practices
 energy efficiencies in the building envelope
 Associates : Applied Science Architecture Technology Wake Technical Community College -
 Applied Science Architecture Technology
-Recipient of Home Builders AssociationÂ Scholarship
-Recipient of MeritÂ Scholarship
+Recipient of Home Builders Association Scholarship
+Recipient of Merit Scholarship
 Building Construction seminar
 BIM and Design Graphics coursework
 Architecture coursework

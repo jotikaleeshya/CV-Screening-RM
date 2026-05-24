@@ -3,18 +3,18 @@ INFORMATION TECHNOLOGY MANAGER / NETWORK ENGINEER
 Professional Overview
 A highly skilled and accomplished Information Technology Manager with over 16 years of expertise in planning, implementing and streamlining IT
 systems to ensure maximum customer satisfaction and business revenue.Â
-â€‹
+​
 Strong leader with demonstrated ability to work effectively with individuals at all levels and in all functional areas. Exceptional communication and
 project management skills with the ability to successfully manage multiple priorities and assignments.
 Skills
-Platforms:Â Windows 2000, 2003 Server and Professional, Windows XP (ProÂ Â Â Â Â Â Â Â Â Â Â and Home), Win 3.11/95/98,
-Dos 6.22, Citrix ICA, MS ExchangeÂ Â Â Â Â Â Â Â Â Â 2000
-Â Hardware:Â HP, IBM, Dell, and Intel Based Server and Desktop Platforms,Â Â Â Â Â Â Â Â Â Â Â Â Cisco 2500 Switches, Sonic
-Wall Hardware VPNs, HP Laser Jets,Â Â Â Â Â Â Â Â Â Â Toshiba E-310 Color Copier, Toshiba and Sony Laptops, Inter-telÂ Â
-Â Software:Â Â MS Office, Visio, Citrix Metaframe XP, Symantec: PC Anywhere,Â Â Â Â Â Â Â Â Â Â Â Ghost, Antivirus, Utilities,
-Win fax; McAfee Virus Scan, Adobe:Â Â Â Â Â Â Â Â Â Â Â Â Acrobat, Illustrator, Photoshop, Partition Magic, Adware,Â Â Â Â
-Â Â Â Â Â Â Â Â Â Â Â Â Spyware,Â
-Â Networking: TCP/IP, Wireless 802.11 a/b/g, DNS, WINS, DHCPÂ
+Platforms: Windows 2000, 2003 Server and Professional, Windows XP (Pro           and Home), Win 3.11/95/98,
+Dos 6.22, Citrix ICA, MS Exchange          2000
+ Hardware: HP, IBM, Dell, and Intel Based Server and Desktop Platforms,            Cisco 2500 Switches, Sonic
+Wall Hardware VPNs, HP Laser Jets,          Toshiba E-310 Color Copier, Toshiba and Sony Laptops, Inter-tel Â
+ Software:  MS Office, Visio, Citrix Metaframe XP, Symantec: PC Anywhere,           Ghost, Antivirus, Utilities,
+Win fax; McAfee Virus Scan, Adobe:            Acrobat, Illustrator, Photoshop, Partition Magic, Adware,   Â
+            Spyware,Â
+ Networking: TCP/IP, Wireless 802.11 a/b/g, DNS, WINS, DHCPÂ
 Relevant Experience
 Information Technology Manager / Network Engineer Feb 2006 to Current
 Company Name ï¼​ City , State
@@ -24,13 +24,13 @@ applications, and development of new software tools.Â
 Work closely with the CIO and senior management to ensure business and technology objectives are aligned.Â
 Researched new technologies and calculated future needs to achieve accurate capacity planning. Negotiated hardware and software
 purchases and maintenance contracts.
-Dramatically reduced IT costs and maintenance by virtualizing the company's infrastructure using VMware.Â Reduced physical servers
+Dramatically reduced IT costs and maintenance by virtualizing the company's infrastructure using VMware. Reduced physical servers
 from 50 to 4 and streamlined disaster recovery processes.Â
-Planned and executedÂ Active Directory domain migration from 2008 to 2012 R2.
+Planned and executed Active Directory domain migration from 2008 to 2012 R2.
 Coordinated the planning and migration to MPLS network for 8 sites, including upgrades of all routers, switches and network equipment.Â
 Increased speed and reliability of company email by migrating from Microsoft Exchange 2010 to 2016.Â
-Streamlined operations by designing new Citrix infrastructure using Netscaler load balancersÂ to ensure better speed and connectivity with
-less downtime for remote offices.Â Â
+Streamlined operations by designing new Citrix infrastructure using Netscaler load balancers to ensure better speed and connectivity with
+less downtime for remote offices. Â
 Led the planning and implementation of Disaster Recovery site in Atlanta. Created company's first comprehensive business continuity plan
 and tested with success.Â
 Installed and configuring Barracuda Spam & Virus Firewalls resulting in the reduction of Spam by 40%.Â

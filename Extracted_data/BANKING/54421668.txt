@@ -42,7 +42,7 @@ Establishes procedures for custody and control of assets, records, loan collater
 Collects data to analyze the present and future financial status of the branch
 Ensures Branch Opening and Closing procedures are followed to include balancing the branch, locking the vault, and setting the alarms
 Completes monthly Branch Assessment ensuring branches are professional in appearance
-Coordinates completion of branch regulatory compliance through computer-based training module completion and otherÂ training classesÂ
+Coordinates completion of branch regulatory compliance through computer-based training module completion and other training classesÂ
 Branch Disaster Recovery Planning with Branch Operations Manager to ensure employees are prepared for all facets of pre and post-
 disaster events Coordinates or provides employee training to improve efficiency and ensure conformance to standard procedures and
 practices

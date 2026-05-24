@@ -36,7 +36,7 @@ Switching: HSRP, VRRP, GLBP VLANs, VTP, Link aggregation
 Risk management processes and analysis
 Work History
 Senior Network Security Engineer 01/2017 to Current
-Company Name â€“ City , State
+Company Name – City , State
 Worked with layer2 switching, VLANs trunking technologies and spanning tree protocols.
 Worked on Cisco switches and routers including physical cabling, IP addressing and Wide Area Network configurations.
 Performed troubleshooting in TCP/IP related problems and connectivity issues.
@@ -47,7 +47,7 @@ Established redundancy in the network by evaluating network performance issues i
 Created network diagrams and documentation for design using documentation tools like MS VISIO.
 Maintained network performance by network monitoring analysis, performance tuning and escalating support to the vendors.
 Network Security Engineer 09/2015 to 12/2016
-Company Name â€“ City , State
+Company Name – City , State
 Network Engineer 12/2012 to 07/2015
 Company Name
 Junior Network Engineer 01/2011 to 11/2012
