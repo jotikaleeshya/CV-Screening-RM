@@ -7,7 +7,7 @@ and LLaMA 2 interpretation.
 
 This framework classifies resumes into 24 occupation categories while 
 detecting systematic bias through:
-- **DistilBERT** — fine-tuned resume classifier
-- **SHAP** — token-level explainability and proxy variable detection
-- **Automated Flagging** — three-tier fairness safeguard system
-- **LLaMA 2** — locally-deployed plain-language explanation generator
+- **DistilBERT** - fine-tuned resume classifier
+- **SHAP** - token-level explainability and proxy variable detection
+- **Automated Flagging** - three-tier fairness safeguard system
+- **LLaMA 2** - locally-deployed plain-language explanation generator
