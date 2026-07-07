@@ -1,5 +1,5 @@
 # Bias Evaluation Framework in AI-Powered Resume Classification
-A multi-layered bias audit framework for AI-powered resume screening using 
+A multi-layered bias audit framework for AI-powered resume classification using 
 DistilBERT classification, SHAP explainability, automated fairness flagging, 
 and LLaMA 2 interpretation.
 
